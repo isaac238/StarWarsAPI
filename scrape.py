@@ -9,13 +9,15 @@ class Wiki:
     def __init__(self, url):
         self.url = self.validate_url(url)
         self.name = self.get_name(url)
+        print(self.name)
         self.dataStore = IO(f"{self.name}/data.json")
         self.categoryMap = IO(f"{self.name}/categories.json")
 
     def get_name(self, url):
         name = url.replace("https://", "")
-        name = url.replace("www.", "")
-        name = url.split(".")[0]
+        name = name.replace("www.", "")
+        print(name)
+        name = name.split(".")[0]
         return name
 
     def validate_url(self, url):
@@ -29,14 +31,15 @@ class Wiki:
         if isinstance(parentNode, Node):
             removeCategoryPrefix = category.text.replace("Category:", "")
             newNode = Node(removeCategoryPrefix, parentNode.name)
-            if parentNode.name not in self.categoryMap.read().keys():
+            if parentNode.name.lower() not in self.categoryMap.read().keys():
                 self.categoryMap.store(parentNode, parentNode.__dict__)
             self.categoryMap.store(newNode, newNode.__dict__)
             return newNode
 
     def store_link(self, link):
-        legendsCheck = link['title'].replace("/Legends", "")
-        entry = WikiEntry(legendsCheck)
+        if '/Legends' in link['title']:
+            return
+        entry = WikiEntry(link['title'], self)
         disallowedCategories = ["Legends articles", "Non-canon articles"]
         entryCategories = entry.data["categories"]
         hasDisallowedCategory = set(disallowedCategories).intersection(set(entryCategories))
@@ -67,12 +70,21 @@ class Wiki:
                               string=re.compile("^(?!Category:).*$"))
 
         for link in links:
+            linkName = link['title'].replace("/Legends", "").lower()
+            if linkName in self.dataStore.read().keys():
+                continue
             self.store_link(link)
+
 
         for category in categories:
             newNode = self.create_new_node(category, parentNode)
             href = category["href"]
             self.dfs_from_category(f"{self.url}{href}", newNode)
+
+        if soup.find("a", class_="category-page__pagination-next"):
+            print("NEXT FOUND")
+            nextPage = soup.find("a", class_="category-page__pagination-next")["href"]
+            self.dfs_from_category(f"{nextPage}", parentNode)
 
 
 # Class defining each wiki page that is indexed
@@ -161,8 +173,6 @@ visited = set()
 st = time.time()
 
 starWarsWiki = Wiki("https://starwars.fandom.com")
-lukeSkywalker = WikiEntry("Luke Skywalker", starWarsWiki)
-lukeSkywalker.get_entry_contents()
-
+starWarsWiki.dfs_from_category("https://starwars.fandom.com/wiki/Category:Droids_by_affiliation")
 et = time.time()
 print(f"{et-st}s")
