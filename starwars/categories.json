@@ -1,0 +1,102 @@
+{
+    "droids_by_affiliation": {
+        "name": "Droids_by_affiliation",
+        "parent": null
+    },
+    "alliance to restore the republic droids": {
+        "name": "Alliance to Restore the Republic droids",
+        "parent": "Droids_by_affiliation"
+    },
+    "bedlam raider droids": {
+        "name": "Bedlam Raider droids",
+        "parent": "Droids_by_affiliation"
+    },
+    "directive 7 members": {
+        "name": "Directive 7 members",
+        "parent": "Droids_by_affiliation"
+    },
+    "droid gotra": {
+        "name": "Droid Gotra",
+        "parent": "Droids_by_affiliation"
+    },
+    "cyban front": {
+        "name": "Cyban Front",
+        "parent": "Droid Gotra"
+    },
+    "droids of the galactic empire": {
+        "name": "Droids of the Galactic Empire",
+        "parent": "Droids_by_affiliation"
+    },
+    "imperial security bureau droids": {
+        "name": "Imperial Security Bureau droids",
+        "parent": "Droids of the Galactic Empire"
+    },
+    "droids of the jedi order": {
+        "name": "Droids of the Jedi Order",
+        "parent": "Droids_by_affiliation"
+    },
+    "first order droids": {
+        "name": "First Order droids",
+        "parent": "Droids_by_affiliation"
+    },
+    "galactic republic droids": {
+        "name": "Galactic Republic droids",
+        "parent": "Droids_by_affiliation"
+    },
+    "ex droids": {
+        "name": "EX droids",
+        "parent": "Galactic Republic droids"
+    },
+    "haxion brood bounty droids": {
+        "name": "Haxion Brood bounty droids",
+        "parent": "Droids_by_affiliation"
+    },
+    "hk-47's droid army individuals": {
+        "name": "HK-47's Droid Army individuals",
+        "parent": "Droids_by_affiliation"
+    },
+    "ig-88's droid army individuals": {
+        "name": "IG-88's Droid Army individuals",
+        "parent": "Droids_by_affiliation"
+    },
+    "mandalorian droids": {
+        "name": "Mandalorian droids",
+        "parent": "Droids_by_affiliation"
+    },
+    "members of the second revelation": {
+        "name": "Members of the Second Revelation",
+        "parent": "Droids_by_affiliation"
+    },
+    "new droids' rights movement members": {
+        "name": "New Droids' Rights Movement members",
+        "parent": "Droids_by_affiliation"
+    },
+    "new republic droids": {
+        "name": "New Republic droids",
+        "parent": "Droids_by_affiliation"
+    },
+    "resistance droids": {
+        "name": "Resistance droids",
+        "parent": "Droids_by_affiliation"
+    },
+    "separatist droids": {
+        "name": "Separatist droids",
+        "parent": "Droids_by_affiliation"
+    },
+    "separatist droid officers": {
+        "name": "Separatist droid officers",
+        "parent": "Separatist droids"
+    },
+    "sith droids": {
+        "name": "Sith droids",
+        "parent": "Droids_by_affiliation"
+    },
+    "sith empire droids": {
+        "name": "Sith Empire droids",
+        "parent": "Sith droids"
+    },
+    "world devastators": {
+        "name": "World Devastators",
+        "parent": "Sith droids"
+    }
+}

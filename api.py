@@ -4,8 +4,8 @@ from utils import IO
 app = FastAPI()
 
 
-dataStore = IO("data.json")
-categoryMap = IO("categories.json")
+dataStore = IO("starwars/data.json")
+categoryMap = IO("starwars/categories.json")
 
 
 @app.get("/individuals/{name}")
