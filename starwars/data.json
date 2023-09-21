@@ -9,7 +9,7 @@
             "Droids of the Galactic Empire",
             "Droids with masculine programming"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/0/03/21b.jpg/revision/latest?cb=20061201103350.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/0/03/21b.jpg",
         "manufacturer": "Industrial Automaton",
         "model": "2-1B-series medical droid",
         "class": "Medical droid",
@@ -244,11 +244,13 @@
             "Droids with unspecified pronouns",
             "Protocol droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/8/87/Deefour.jpg/revision/latest/scale-to-width-down/500?cb=20230429120943.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/8/87/Deefour.jpg",
         "class": "Protocol droid",
         "sensor": "Yellow",
         "plating": "Gray",
-        "affiliation": "Alliance to Restore the Republic"
+        "affiliation": [
+            "Alliance to Restore the Republic"
+        ]
     },
     "dio": {
         "name": "Dio",
@@ -287,7 +289,7 @@
             "Alliance to Restore the Republic droids",
             "Individual droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/d/da/Prestige_Droid.jpg/revision/latest/scale-to-width-down/350?cb=20200320185443.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/d/da/Prestige_Droid.jpg",
         "class": "Builder droid"
     },
     "eg-127": {
@@ -319,7 +321,9 @@
         "image": "https://static.wikia.nocookie.net/starwars/images/a/a4/EG-4.png",
         "manufacturer": "Industrial Automaton",
         "model": "GNK-series power droid",
-        "affiliation": "Alliance to Restore the Republic"
+        "affiliation": [
+            "Alliance to Restore the Republic"
+        ]
     },
     "eg-86": {
         "name": "EG-86",
@@ -336,7 +340,9 @@
         "height": "1.1 meters",
         "gender": "Masculine programming",
         "plating": "Black, with a red stripe around the middle of it",
-        "affiliation": "Alliance to Restore the Republic"
+        "affiliation": [
+            "Alliance to Restore the Republic"
+        ]
     },
     "exo": {
         "name": "Exo",
@@ -347,12 +353,14 @@
             "Droids with feminine programming",
             "Protocol droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/1/14/Exo.jpg/revision/latest?cb=20190927074944.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/1/14/Exo.jpg",
         "class": "Protocol droid",
         "gender": "Feminine programming",
         "sensor": "Yellow",
         "plating": "Blue",
-        "affiliation": "Alliance to Restore the Republic"
+        "affiliation": [
+            "Alliance to Restore the Republic"
+        ]
     },
     "fx-7": {
         "name": "FX-7",
@@ -362,14 +370,16 @@
             "Alliance to Restore the Republic droids",
             "FX-series medical assistant droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/d/d7/FX_Droid.jpg/revision/latest?cb=20080329151313.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/d/d7/FX_Droid.jpg",
         "manufacturer": "Medtech Industries",
         "line": "FX-7 medical assistant droid",
         "model": "FX-series medical assistant droid",
         "class": "Medical assistant droid",
         "height": "1.7 meters",
         "equipment": "Multiple arms and medical tools",
-        "affiliation": "Alliance to Restore the Republic"
+        "affiliation": [
+            "Alliance to Restore the Republic"
+        ]
     },
     "gonky (uprising)": {
         "name": "Gonky (Uprising)",
@@ -415,13 +425,14 @@
         "name": "J4X-7",
         "categories": [
             "Canon articles",
-            "Articles needing illustration",
             "Droid stubs",
             "Alliance to Restore the Republic droids"
         ],
-        "image": null,
+        "image": "https://static.wikia.nocookie.net/starwars/images/2/23/J4X-7.jpg",
         "plating": "Tan",
-        "affiliation": "Jarrod Kelvin"
+        "affiliation": [
+            "Jarrod Kelvin"
+        ]
     },
     "jjh2": {
         "name": "JJH2",
@@ -493,7 +504,7 @@
             "Galactic Republic droids",
             "Imperial defectors"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/8/83/K3po.jpg/revision/latest/scale-to-width-down/500?cb=20090118041410.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/8/83/K3po.jpg",
         "death": "3 ABY, Hoth",
         "manufacturer": "Cybot Galactica",
         "model": "3PO-series protocol droid",
@@ -534,7 +545,7 @@
             "Alliance to Restore the Republic droids",
             "Droids with masculine programming"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/a/a9/Emkay-One.jpg/revision/latest/scale-to-width-down/500?cb=20181116043821.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/a/a9/Emkay-One.jpg",
         "class": "Butler droid",
         "gender": "Masculine programming",
         "sensor": [
@@ -542,7 +553,9 @@
             "Yellow"
         ],
         "plating": "Silver",
-        "affiliation": "Clan Markona"
+        "affiliation": [
+            "Clan Markona"
+        ]
     },
     "pinprick": {
         "name": "Pinprick",
@@ -582,7 +595,9 @@
         "sensor": "Yellow",
         "plating": "Blue",
         "armament": "Arm-mounted Flamethrower and blaster",
-        "affiliation": "Resistance"
+        "affiliation": [
+            "Resistance"
+        ]
     },
     "r-3po": {
         "name": "R-3PO",
@@ -599,7 +614,9 @@
         "mass": "75 kilograms",
         "sensor": "Yellow",
         "plating": "Red",
-        "affiliation": "Alliance to Restore the Republic"
+        "affiliation": [
+            "Alliance to Restore the Republic"
+        ]
     },
     "r0-gr": {
         "name": "R0-GR",
@@ -788,12 +805,14 @@
             "Alliance to Restore the Republic droids",
             "R2-series astromech droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/4/48/R2-D60.jpg/revision/latest/scale-to-width-down/341?cb=20150822202348.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/4/48/R2-D60.jpg",
         "model": "R2-series astromech droid",
         "class": "Astromech droid",
         "sensor": "Black, red",
         "plating": "Blue, silver, white",
-        "affiliation": "Alliance to Restore the Republic"
+        "affiliation": [
+            "Alliance to Restore the Republic"
+        ]
     },
     "r2-f2": {
         "name": "R2-F2",
@@ -844,12 +863,14 @@
             "Alliance to Restore the Republic droids",
             "R2-series astromech droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/3/36/R2-W50.jpg/revision/latest/scale-to-width-down/500?cb=20220520230238.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/3/36/R2-W50.jpg",
         "model": "R2-series astromech droid",
         "class": "Astromech droid",
         "sensor": "Gold",
         "plating": "Blue, gold",
-        "affiliation": "Alliance to Restore the Republic"
+        "affiliation": [
+            "Alliance to Restore the Republic"
+        ]
     },
     "r2-x2": {
         "name": "R2-X2",
@@ -859,7 +880,7 @@
             "R2-series astromech droids",
             "Red Squadron personnel"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/1/17/R2X2.jpg/revision/latest/scale-to-width-down/350?cb=20050903181727.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/1/17/R2X2.jpg",
         "death": "0 BBY, Yavin system",
         "manufacturer": "Industrial Automaton",
         "line": "R-series",
@@ -878,11 +899,13 @@
             "Alliance to Restore the Republic droids",
             "R3-series astromech droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/0/03/R3-A2.jpg/revision/latest/scale-to-width-down/350?cb=20191121144032.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/0/03/R3-A2.jpg",
         "line": "R-series",
         "model": "R3-series astromech droid",
         "class": "Astromech droid",
-        "affiliation": "Alliance to Restore the Republic"
+        "affiliation": [
+            "Alliance to Restore the Republic"
+        ]
     },
     "r3-a3": {
         "name": "R3-A3",
@@ -912,14 +935,16 @@
             "Massassi Group personnel",
             "R3-series astromech droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/6/6a/R3-M2.jpg/revision/latest/scale-to-width-down/500?cb=20170324033449.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/6/6a/R3-M2.jpg",
         "line": "R-series",
         "model": "R3-series astromech droid",
         "class": "Astromech droid",
         "height": "1.09 meters",
         "sensor": "Black",
         "plating": "White, khaki and gray",
-        "affiliation": "Alliance to Restore the Republic"
+        "affiliation": [
+            "Alliance to Restore the Republic"
+        ]
     },
     "r3-s1": {
         "name": "R3-S1",
@@ -931,7 +956,7 @@
             "Droids with feminine programming",
             "R3-series astromech droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/2/26/R3S1.jpg/revision/latest/scale-to-width-down/500?cb=20170228043856.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/2/26/R3S1.jpg",
         "manufacturer": "Industrial Automaton",
         "line": "R-series",
         "model": "R3-series astromech droid",
@@ -961,7 +986,9 @@
         "class": "Astromech droid",
         "height": "1.09 meters",
         "plating": "Gold and white",
-        "affiliation": "Alliance to Restore the Republic"
+        "affiliation": [
+            "Alliance to Restore the Republic"
+        ]
     },
     "r4 (rebel alliance)": {
         "name": "R4 (Rebel Alliance)",
@@ -1013,7 +1040,9 @@
         "model": "R4 astromech",
         "class": "Astromech droid",
         "plating": "Dark blue",
-        "affiliation": "Alliance to Restore the Republic"
+        "affiliation": [
+            "Alliance to Restore the Republic"
+        ]
     },
     "r4-ms": {
         "name": "R4-MS",
@@ -1026,7 +1055,7 @@
             "R4-series agromech droids",
             "Rogue Squadron personnel"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/5/54/R4-MS_SWA_11_head.jpg/revision/latest?cb=20220928171524.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/5/54/R4-MS_SWA_11_head.jpg",
         "manufacturer": "Industrial Automaton",
         "line": "R-series",
         "model": "R4 astromech",
@@ -1104,7 +1133,9 @@
         "height": "97 centimeters",
         "sensor": "Black",
         "plating": "White and burgundy",
-        "affiliation": "Alliance to Restore the Republic"
+        "affiliation": [
+            "Alliance to Restore the Republic"
+        ]
     },
     "r5-g4": {
         "name": "R5-G4",
@@ -1114,7 +1145,7 @@
             "Gold Squadron personnel",
             "R5-series astromech droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/7/78/R5-G4_X-wing_2nd_Edition.jpg/revision/latest?cb=20211220165358.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/7/78/R5-G4_X-wing_2nd_Edition.jpg",
         "death": "4 ABY, Endor system",
         "line": "R-series",
         "model": "R5 series astromech droid",
@@ -1170,7 +1201,9 @@
         "model": "R5 line",
         "class": "Astromech droid",
         "plating": "Black, blue and white",
-        "affiliation": "Alliance to Restore the Republic"
+        "affiliation": [
+            "Alliance to Restore the Republic"
+        ]
     },
     "r5-sk1": {
         "name": "R5-SK1",
@@ -1180,7 +1213,7 @@
             "R5-series astromech droids",
             "Red Squadron personnel"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/6/63/R5-SK1_Droid_Factory.jpg/revision/latest?cb=20170412174408.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/6/63/R5-SK1_Droid_Factory.jpg",
         "manufacturer": "Industrial Automaton",
         "line": "R-series",
         "model": "R5-series astromech droid",
@@ -1202,7 +1235,9 @@
         "image": null,
         "class": "Protocol droid",
         "plating": "Blue",
-        "affiliation": "Alliance to Restore the Republic"
+        "affiliation": [
+            "Alliance to Restore the Republic"
+        ]
     },
     "s4": {
         "name": "S4",
@@ -1214,12 +1249,14 @@
             "Droids with masculine programming",
             "R5-series astromech droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/a/a6/S4_astromech_rebel.jpg/revision/latest/scale-to-width-down/499?cb=20170719064134.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/a/a6/S4_astromech_rebel.jpg",
         "line": "R-series",
         "model": "R5 series astromech droid",
         "class": "Astromech droid",
         "gender": "Masculine programming",
-        "affiliation": "Alliance to Restore the Republic"
+        "affiliation": [
+            "Alliance to Restore the Republic"
+        ]
     },
     "sparks (astromech droid)": {
         "name": "Sparks (astromech droid)",
@@ -1275,7 +1312,9 @@
         "image": "https://static.wikia.nocookie.net/starwars/images/4/47/Tee-six.png",
         "sensor": "Red",
         "plating": "White",
-        "affiliation": "Alliance to Restore the Republic"
+        "affiliation": [
+            "Alliance to Restore the Republic"
+        ]
     },
     "tee-six (spirit of jedha)": {
         "name": "Tee-Six (Spirit of Jedha)",
@@ -1285,7 +1324,7 @@
             "Alliance to Restore the Republic droids",
             "Astromech droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/5/5f/TeeSix.jpg/revision/latest/scale-to-width-down/500?cb=20210128031930.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/5/5f/TeeSix.jpg",
         "class": "Astromech droid",
         "sensor": "Black",
         "plating": "Gray and yellow",
@@ -1302,7 +1341,7 @@
             "Droids with feminine programming",
             "RA-7 protocol droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/9/9c/Teezee-Too.jpg/revision/latest/scale-to-width-down/500?cb=20190619193328.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/9/9c/Teezee-Too.jpg",
         "manufacturer": "Arakyd Industries",
         "model": "RA-7 protocol droid",
         "class": "Protocol droid",
@@ -1324,7 +1363,7 @@
             "Galactic Republic droids",
             "WED Treadwell repair droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/b/b2/Wed1016.jpg/revision/latest/scale-to-width-down/500?cb=20201207210951.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/b/b2/Wed1016.jpg",
         "death": "3 ABY, Bespin",
         "line": "WED Treadwell repair droid",
         "model": "WED 15 \"Septoid 2\" Treadwell toolkit droid",
@@ -1375,7 +1414,9 @@
         "image": null,
         "model": "2-1B-series medical droid",
         "class": "Medical droid",
-        "affiliation": "Alliance to Restore the Republic"
+        "affiliation": [
+            "Alliance to Restore the Republic"
+        ]
     },
     "unidentified protocol droid (accresker jail)": {
         "name": "Unidentified protocol droid (Accresker Jail)",
@@ -1385,12 +1426,14 @@
             "Alliance to Restore the Republic droids",
             "Unidentified protocol droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/f/f2/AccreskerProtocol.jpg/revision/latest/scale-to-width-down/350?cb=20200906050151.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/f/f2/AccreskerProtocol.jpg",
         "death": "Between 0 ABY and 3 ABY, an EF76 Nebulon-B escort frigate",
         "class": "Protocol droid",
         "sensor": "Yellow",
         "plating": "Blue",
-        "affiliation": "Alliance to Restore the Republic"
+        "affiliation": [
+            "Alliance to Restore the Republic"
+        ]
     },
     "unidentified protocol droid (invincible faith)": {
         "name": "Unidentified protocol droid (Invincible Faith)",
@@ -1407,16 +1450,18 @@
         "gender": "Masculine programming",
         "sensor": "Yellow",
         "plating": "Silver",
-        "affiliation": "Alliance to Restore the Republic"
+        "affiliation": [
+            "Alliance to Restore the Republic"
+        ]
     },
     "wac-47": {
         "name": "WAC-47",
         "categories": [
             "Canon articles",
-            "Pages needing citation",
+            "Articles with spoilers",
             "Character stubs",
             "Alliance to Restore the Republic droids",
-            "Droids with masculine programming",
+            "Droids with he/him pronouns",
             "DUM-series pit droids",
             "Galactic Republic droids",
             "Members of D-Squad",
@@ -1428,6 +1473,7 @@
         "model": "DUM-series pit droid (modified)",
         "height": "1.19 meters (3 ft, 11 in)",
         "gender": "Masculine programming",
+        "pronouns": "He/him",
         "sensor": "Black",
         "affiliation": [
             "Galactic Republic",
@@ -1446,7 +1492,9 @@
         ],
         "image": null,
         "class": "Kitchen droid",
-        "affiliation": "Alliance to Restore the Republic"
+        "affiliation": [
+            "Alliance to Restore the Republic"
+        ]
     },
     "xm-g3": {
         "name": "XM-G3",
@@ -1456,7 +1504,7 @@
             "Droids with masculine programming",
             "Security droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/6/6c/XM-G3.jpg/revision/latest/scale-to-width-down/499?cb=20181005043124.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/6/6c/XM-G3.jpg",
         "death": "During the fact-finding mission to the Outer Rim, Mustafar",
         "class": "Bodyguard droid",
         "gender": "Masculine programming",
@@ -1473,7 +1521,7 @@
             "Alliance to Restore the Republic droids",
             "Astromech droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/3/35/Y6-T0.jpg/revision/latest?cb=20180605181455.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/3/35/Y6-T0.jpg",
         "class": "Astromech droid",
         "affiliation": [
             "Alliance to Restore the Republic"
@@ -1497,7 +1545,9 @@
         "class": "Battle droid",
         "height": "1.93 meters (6 ft, 4 in)",
         "gender": "Masculine programming",
-        "affiliation": "Bedlam Raiders"
+        "affiliation": [
+            "Bedlam Raiders"
+        ]
     },
     "459": {
         "name": "459",
@@ -1517,7 +1567,9 @@
         "class": "Battle droid",
         "height": "1.93 meters (6 ft, 4 in)",
         "gender": "Masculine programming",
-        "affiliation": "Bedlam Raiders"
+        "affiliation": [
+            "Bedlam Raiders"
+        ]
     },
     "beetu deetu": {
         "name": "Beetu Deetu",
@@ -1536,7 +1588,9 @@
         "class": "Battle droid",
         "height": "1.93 meters (6 ft, 4 in)",
         "gender": "Masculine programming",
-        "affiliation": "Bedlam Raiders"
+        "affiliation": [
+            "Bedlam Raiders"
+        ]
     },
     "e3-ve3": {
         "name": "E3-VE3",
@@ -1568,7 +1622,9 @@
         "line": "IG-series",
         "model": "IG-100 MagnaGuard",
         "class": "Battle droid",
-        "affiliation": "Bedlam Raiders"
+        "affiliation": [
+            "Bedlam Raiders"
+        ]
     },
     "droid gotra": {
         "name": "Droid Gotra",
@@ -1602,7 +1658,9 @@
             "Droid Gotra"
         ],
         "image": null,
-        "affiliation": "Droid Gotra"
+        "affiliation": [
+            "Droid Gotra"
+        ]
     },
     "the glitch": {
         "name": "The Glitch",
@@ -1614,7 +1672,9 @@
         "image": null,
         "type": "Criminal organization",
         "locations": "Coruscant",
-        "affiliation": "Droid Gotra"
+        "affiliation": [
+            "Droid Gotra"
+        ]
     },
     "kronos-841": {
         "name": "KRONOS-841",
@@ -1624,7 +1684,9 @@
             "Individual droids"
         ],
         "image": null,
-        "affiliation": "Droid Gotra"
+        "affiliation": [
+            "Droid Gotra"
+        ]
     },
     "q2-b3ko": {
         "name": "Q2-B3KO",
@@ -1656,7 +1718,9 @@
         ],
         "image": null,
         "class": "Tool-and-Die series droid",
-        "affiliation": "Droid Gotra"
+        "affiliation": [
+            "Droid Gotra"
+        ]
     },
     "cyban front": {
         "name": "Cyban Front",
@@ -1665,10 +1729,12 @@
             "Stubs",
             "Cyban Front"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/3/35/Cyban_Front_droids.jpg/revision/latest/scale-to-width-down/500?cb=20170712224645.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/3/35/Cyban_Front_droids.jpg",
         "type": "Criminal organization",
         "locations": "Sorca Retreat",
-        "affiliation": "Droid Gotra"
+        "affiliation": [
+            "Droid Gotra"
+        ]
     },
     "unidentified blue cyban front droid": {
         "name": "Unidentified blue Cyban Front droid",
@@ -1679,11 +1745,13 @@
             "Droids with masculine programming",
             "Unidentified droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/f/fb/BlueCybanFront_Aphra_9.jpg/revision/latest/scale-to-width-down/259?cb=20180920233110.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/f/fb/BlueCybanFront_Aphra_9.jpg",
         "death": "c. 1 ABY, Sorca Retreat",
         "gender": "Masculine programming",
         "plating": "Blue",
-        "affiliation": "Cyban Front"
+        "affiliation": [
+            "Cyban Front"
+        ]
     },
     "unidentified red cyban front droid": {
         "name": "Unidentified red Cyban Front droid",
@@ -1694,11 +1762,13 @@
             "Cyban Front",
             "Unidentified droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/d/da/RedCybanFrontDroid.jpg/revision/latest/scale-to-width-down/500?cb=20200517123843.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/d/da/RedCybanFrontDroid.jpg",
         "death": "c. 1 ABY, Sorca Retreat",
         "sensor": "Yellow",
         "plating": "Red",
-        "affiliation": "Cyban Front"
+        "affiliation": [
+            "Cyban Front"
+        ]
     },
     "0-0-0": {
         "name": "0-0-0",
@@ -1720,7 +1790,10 @@
             "Torturers and interrogators"
         ],
         "image": "https://static.wikia.nocookie.net/starwars/images/3/35/000-Doctor_Aphra_1-Rod_Reis.png",
-        "death": "Sometime during or after 0 ABY, Moraband (later rebuilt)3 ABY, Tython (later rebuilt)",
+        "death": [
+            "Sometime during or after 0 ABY, Moraband (later rebuilt)",
+            "3 ABY, Tython (later rebuilt)"
+        ],
         "creator": "0-0-0's creator",
         "manufacturer": "Cybot Galactica (chassis)",
         "model": "Modified 3PO-series protocol droid",
@@ -1803,7 +1876,9 @@
         "class": "Astromech droid",
         "gender": "Masculine programming",
         "plating": "Black-and-gold",
-        "affiliation": "Galactic Empire"
+        "affiliation": [
+            "Galactic Empire"
+        ]
     },
     "264": {
         "name": "264",
@@ -1871,7 +1946,9 @@
             "Repulsorlift engines",
             "Manipulator arms"
         ],
-        "affiliation": "Galactic Empire"
+        "affiliation": [
+            "Galactic Empire"
+        ]
     },
     "av-6r7": {
         "name": "AV-6R7",
@@ -1881,13 +1958,15 @@
             "Droids with he/him pronouns",
             "V-series droid supervisors"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/2/2f/AV-6R7.jpg/revision/latest?cb=20050912143120.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/2/2f/AV-6R7.jpg",
         "death": "4 ABY, Executor",
         "model": "V-series droid supervisor",
         "class": "Supervisor droid",
         "pronouns": "He/him",
         "plating": "Black",
-        "affiliation": "Galactic Empire"
+        "affiliation": [
+            "Galactic Empire"
+        ]
     },
     "azi-345211896246498721347": {
         "name": "AZI-345211896246498721347",
@@ -2012,8 +2091,7 @@
         "name": "C2-B5",
         "categories": [
             "Canon articles",
-            "Wookieepedia former Good articles",
-            "Wookieepedia Featured article nominations",
+            "Wookieepedia Featured articles",
             "Astromech droids",
             "Droids of the Galactic Empire",
             "Droids with it/its pronouns",
@@ -2032,7 +2110,9 @@
             "Deflector shield generator",
             "Scan pulse"
         ],
-        "affiliation": "Galactic Empire"
+        "affiliation": [
+            "Galactic Empire"
+        ]
     },
     "copper (droid)": {
         "name": "Copper (droid)",
@@ -2105,11 +2185,13 @@
             "R2-series astromech droids",
             "Unidentified astromech droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/c/c8/DefectiveR2.jpg/revision/latest/scale-to-width-down/499?cb=20090217025614.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/c/c8/DefectiveR2.jpg",
         "model": "R2-series astromech droid",
         "class": "Astromech droid",
         "equipment": "Holoprojector",
-        "affiliation": "Galactic Empire"
+        "affiliation": [
+            "Galactic Empire"
+        ]
     },
     "dek-nil": {
         "name": "Dek-Nil",
@@ -2121,7 +2203,7 @@
             "Droids of the Galactic Empire",
             "Droids with masculine programming"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/2/2d/Dek-Nil.jpg/revision/latest/scale-to-width-down/499?cb=20181214222350.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/2/2d/Dek-Nil.jpg",
         "death": "1 ABY, Unidentified pirate station",
         "model": "Droideka",
         "class": "Battle droid",
@@ -2187,7 +2269,9 @@
         "class": "Sentry droid",
         "gender": "Feminine programming",
         "plating": "Grey",
-        "affiliation": "Galactic Empire"
+        "affiliation": [
+            "Galactic Empire"
+        ]
     },
     "exd-9": {
         "name": "EXD-9",
@@ -2214,7 +2298,9 @@
             "Built-in blasters",
             "Proton warhead"
         ],
-        "affiliation": "Galactic Empire"
+        "affiliation": [
+            "Galactic Empire"
+        ]
     },
     "fx-6": {
         "name": "FX-6",
@@ -2245,7 +2331,9 @@
         "image": null,
         "model": "Legal-analyst droid",
         "class": "Analysis droid",
-        "affiliation": "Galactic Empire"
+        "affiliation": [
+            "Galactic Empire"
+        ]
     },
     "ig-88b": {
         "name": "IG-88B",
@@ -2313,9 +2401,11 @@
             "Astromech droids",
             "Droids of the Galactic Empire"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/8/84/IP-8.jpg/revision/latest?cb=20080616193136.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/8/84/IP-8.jpg",
         "class": "Astromech droid",
-        "affiliation": "Galactic Empire"
+        "affiliation": [
+            "Galactic Empire"
+        ]
     },
     "it-o": {
         "name": "IT-O",
@@ -2381,7 +2471,9 @@
         "height": "2.16 meters",
         "sensor": "White",
         "plating": "Tan",
-        "affiliation": "Galactic Empire"
+        "affiliation": [
+            "Galactic Empire"
+        ]
     },
     "k-8z8": {
         "name": "K-8Z8",
@@ -2392,7 +2484,7 @@
             "Galactic Empire military personnel",
             "KX-series security droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/3/3c/K-8z8.jpg/revision/latest?cb=20210302154228.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/3/3c/K-8z8.jpg",
         "manufacturer": "Arakyd Industries",
         "model": "KX-series security droid",
         "class": "Security droid",
@@ -2412,7 +2504,7 @@
             "Droids with masculine programming",
             "RA-7 protocol droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/4/4b/KMD-RA-71.jpg/revision/latest/scale-to-width-down/500?cb=20171209122752.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/4/4b/KMD-RA-71.jpg",
         "manufacturer": "Arakyd Industries",
         "model": "RA-7 protocol droid",
         "class": "Protocol droid",
@@ -2420,7 +2512,9 @@
         "gender": "Masculine programming",
         "sensor": "Black",
         "plating": "Silver",
-        "affiliation": "Galactic Empire"
+        "affiliation": [
+            "Galactic Empire"
+        ]
     },
     "lightning": {
         "name": "Lightning",
@@ -2438,7 +2532,9 @@
             "Sonic emitter",
             "Prod capable of stunning"
         ],
-        "affiliation": "Zero Angle"
+        "affiliation": [
+            "Zero Angle"
+        ]
     },
     "m-1": {
         "name": "M-1",
@@ -2486,7 +2582,9 @@
             "Sonic cannon",
             "Rocket boosters"
         ],
-        "affiliation": "Galactic Empire"
+        "affiliation": [
+            "Galactic Empire"
+        ]
     },
     "mgk-300": {
         "name": "MGK-300",
@@ -2555,7 +2653,7 @@
             "Espionage droids",
             "Probe droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/2/21/PTZ-1K.jpg/revision/latest/scale-to-width-down/500?cb=20200401194859.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/2/21/PTZ-1K.jpg",
         "model": "Prowler 1000 seeker droid",
         "class": "Seeker",
         "gender": "Masculine programming",
@@ -2610,7 +2708,9 @@
             "Heat exhaust",
             "Powerbus cable"
         ],
-        "affiliation": "Galactic Empire"
+        "affiliation": [
+            "Galactic Empire"
+        ]
     },
     "r3-l1": {
         "name": "R3-L1",
@@ -2625,7 +2725,9 @@
         "line": "R-series",
         "model": "R3-series astromech droid",
         "class": "Astromech droid",
-        "affiliation": "Galactic Empire"
+        "affiliation": [
+            "Galactic Empire"
+        ]
     },
     "r3-m3": {
         "name": "R3-M3",
@@ -2634,14 +2736,16 @@
             "Droids of the Galactic Empire",
             "R3-series astromech droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/5/5a/Blue_r3_anh.jpg/revision/latest?cb=20191112162909.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/5/5a/Blue_r3_anh.jpg",
         "manufacturer": "Industrial Automaton",
         "line": "R-series",
         "model": "R3-series astromech droid",
         "class": "Astromech droid",
         "height": "1.09 meters",
         "plating": "Blue",
-        "affiliation": "Galactic Empire"
+        "affiliation": [
+            "Galactic Empire"
+        ]
     },
     "r3-t6": {
         "name": "R3-T6",
@@ -2660,7 +2764,9 @@
         "class": "Astromech droid",
         "height": "1.09 meters",
         "plating": "Red and white, clear dome",
-        "affiliation": "Galactic Empire"
+        "affiliation": [
+            "Galactic Empire"
+        ]
     },
     "r4-i9": {
         "name": "R4-I9",
@@ -2678,7 +2784,9 @@
         "gender": "Masculine programming",
         "sensor": "Black",
         "plating": "Dark blue",
-        "affiliation": "Galactic Empire"
+        "affiliation": [
+            "Galactic Empire"
+        ]
     },
     "r4-m9": {
         "name": "R4-M9",
@@ -2688,7 +2796,7 @@
             "Droids of the Galactic Empire",
             "R4-series agromech droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/0/07/R4-M9_ANH.jpg/revision/latest?cb=20171026182238.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/0/07/R4-M9_ANH.jpg",
         "manufacturer": "Industrial Automaton",
         "line": "R-series",
         "model": "R4 astromech",
@@ -2696,7 +2804,9 @@
         "height": "1.15 meters",
         "sensor": "Black",
         "plating": "White, with dark gray accent panels",
-        "affiliation": "Galactic Empire"
+        "affiliation": [
+            "Galactic Empire"
+        ]
     },
     "r5-232": {
         "name": "R5-232",
@@ -2714,7 +2824,9 @@
         "height": "97 centimeters",
         "sensor": "Silver",
         "plating": "White, black, grey and blue",
-        "affiliation": "Galactic Empire"
+        "affiliation": [
+            "Galactic Empire"
+        ]
     },
     "r5-j2": {
         "name": "R5-J2",
@@ -2725,14 +2837,16 @@
             "Industrial Automaton products",
             "R5-series astromech droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/2/28/R5J2_btm.jpg/revision/latest/scale-to-width-down/500?cb=20091202161211.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/2/28/R5J2_btm.jpg",
         "manufacturer": "Industrial Automaton",
         "line": "R-series",
         "model": "R5 unit",
         "class": "Astromech droid",
         "height": "0.97 meters",
         "gender": "Masculine Programming",
-        "affiliation": "Galactic Empire"
+        "affiliation": [
+            "Galactic Empire"
+        ]
     },
     "r5-pht": {
         "name": "R5-PHT",
@@ -2751,7 +2865,9 @@
         "sensor": "Black",
         "plating": "Black and silver",
         "equipment": "Kernel optical holographic projector",
-        "affiliation": "Galactic Empire"
+        "affiliation": [
+            "Galactic Empire"
+        ]
     },
     "rn-18": {
         "name": "RN-18",
@@ -2781,14 +2897,16 @@
             "Droids of the Galactic Empire",
             "RA-7 protocol droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/c/c0/See-Seven.jpg/revision/latest?cb=20201105091002.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/c/c0/See-Seven.jpg",
         "manufacturer": "Arakyd Industries",
         "model": "RA-7 protocol droid",
         "class": "Protocol droid",
         "height": "1.7 meters",
         "sensor": "Red",
         "plating": "Black",
-        "affiliation": "Galactic Empire"
+        "affiliation": [
+            "Galactic Empire"
+        ]
     },
     "t1l-d4": {
         "name": "T1L-D4",
@@ -2800,7 +2918,9 @@
             "Individual droids"
         ],
         "image": null,
-        "affiliation": "Galactic Empire"
+        "affiliation": [
+            "Galactic Empire"
+        ]
     },
     "unidentified 2-1b-series medical droid (darth vader)": {
         "name": "Unidentified 2-1B-series medical droid (Darth Vader)",
@@ -2834,7 +2954,7 @@
             "Sith droids",
             "Unidentified astromech droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/b/ba/Unidentified_astro_droid_spy.jpg/revision/latest?cb=20160725202210.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/b/ba/Unidentified_astro_droid_spy.jpg",
         "death": "0 ABY",
         "affiliation": [
             "Galactic Empire",
@@ -2854,7 +2974,9 @@
         ],
         "image": null,
         "death": "Between 3 ABY and 4 ABY, Executor",
-        "affiliation": "Galactic Empire"
+        "affiliation": [
+            "Galactic Empire"
+        ]
     },
     "unidentified droid (transport 904)": {
         "name": "Unidentified droid (Transport 904)",
@@ -2893,7 +3015,9 @@
         "height": "1.9 meters",
         "sensor": "Red",
         "plating": "Black",
-        "affiliation": "Galactic Empire"
+        "affiliation": [
+            "Galactic Empire"
+        ]
     },
     "unidentified hubdroid": {
         "name": "Unidentified hubdroid",
@@ -2906,7 +3030,7 @@
             "Security droids",
             "Unidentified droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/2/2d/Hubdroid.jpg/revision/latest/scale-to-width-down/499?cb=20180628102401.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/2/2d/Hubdroid.jpg",
         "death": "During the attack on an EF76 Nebulon-B escort frigate",
         "model": "Hubdroid",
         "sensor": "Green",
@@ -2925,7 +3049,7 @@
             "KX-series security droids",
             "Unidentified droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/b/b6/Unfortunate_KX.jpg/revision/latest/scale-to-width-down/500?cb=20200423123009.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/b/b6/Unfortunate_KX.jpg",
         "death": "Between 0 ABY and 1 ABY",
         "manufacturer": "Arakyd Industries",
         "model": "KX-series security droid",
@@ -2933,7 +3057,9 @@
         "gender": "Masculine programming",
         "sensor": "White",
         "plating": "Black",
-        "affiliation": "Galactic Empire"
+        "affiliation": [
+            "Galactic Empire"
+        ]
     },
     "unidentified kx-series security droid (niamos)": {
         "name": "Unidentified KX-series security droid (Niamos)",
@@ -2949,7 +3075,9 @@
         "class": "Security droid",
         "sensor": "White",
         "plating": "Black",
-        "affiliation": "Galactic Empire"
+        "affiliation": [
+            "Galactic Empire"
+        ]
     },
     "unidentified kx-series security droid (scourge)": {
         "name": "Unidentified KX-series security droid (Scourge)",
@@ -2969,7 +3097,9 @@
         "class": "Security droid",
         "sensor": "Blue, later purple",
         "plating": "Black",
-        "affiliation": "Galactic Empire"
+        "affiliation": [
+            "Galactic Empire"
+        ]
     },
     "unidentified lom-series protocol droid": {
         "name": "Unidentified LOM-series protocol droid",
@@ -2987,7 +3117,9 @@
         "height": "1.6 meters",
         "sensor": "Metallic green",
         "plating": "Grey",
-        "affiliation": "Galactic Empire"
+        "affiliation": [
+            "Galactic Empire"
+        ]
     },
     "unidentified nanny droid (imperial academy)": {
         "name": "Unidentified nanny droid (Imperial Academy)",
@@ -3015,7 +3147,7 @@
             "RA-7 protocol droids",
             "Unidentified protocol droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/8/85/UnfortunateTranslator.jpg/revision/latest/scale-to-width-down/350?cb=20200531214217.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/8/85/UnfortunateTranslator.jpg",
         "death": "c. 0 ABY, an Imperial II-class Star Destroyer above Andelm IV",
         "manufacturer": "Arakyd Industries",
         "model": "RA-7 protocol droid",
@@ -3023,7 +3155,9 @@
         "height": "1.7 meters",
         "sensor": "Gray",
         "plating": "Blue",
-        "affiliation": "Galactic Empire"
+        "affiliation": [
+            "Galactic Empire"
+        ]
     },
     "unidentified ra-7 protocol droid (inspectorate)": {
         "name": "Unidentified RA-7 protocol droid (Inspectorate)",
@@ -3036,7 +3170,7 @@
             "RA-7 protocol droids",
             "Unidentified protocol droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/f/fc/InspectorateRA7.jpg/revision/latest/scale-to-width-down/350?cb=20200531034356.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/f/fc/InspectorateRA7.jpg",
         "model": "RA-7 protocol droid",
         "class": "Protocol droid",
         "sensor": "Black",
@@ -3053,14 +3187,16 @@
             "RA-7 protocol droids",
             "Unidentified protocol droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/2/20/Eternal_RA-7ur.jpg/revision/latest/scale-to-width-down/500?cb=20181111000337.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/2/20/Eternal_RA-7ur.jpg",
         "manufacturer": "Arakyd Industries",
         "model": "RA-7 protocol droid",
         "class": "Protocol droid",
         "height": "1.7 meters",
         "sensor": "Gold",
         "plating": "Silver",
-        "affiliation": "Galactic Empire"
+        "affiliation": [
+            "Galactic Empire"
+        ]
     },
     "unidentified ra-7 protocol droid (plazir-15)": {
         "name": "Unidentified RA-7 protocol droid (Plazir-15)",
@@ -3097,7 +3233,9 @@
         "model": "RA-7 protocol droid",
         "class": "Protocol droid",
         "plating": "Silver",
-        "affiliation": "Galactic Empire"
+        "affiliation": [
+            "Galactic Empire"
+        ]
     },
     "unidentified ra-7 protocol droid bartender": {
         "name": "Unidentified RA-7 protocol droid bartender",
@@ -3118,7 +3256,9 @@
         "class": "Protocol droid",
         "height": "1.7 meters",
         "plating": "Silver",
-        "affiliation": "Gideon's Imperial remnant"
+        "affiliation": [
+            "Gideon's Imperial remnant"
+        ]
     },
     "v0-rk": {
         "name": "V0-RK",
@@ -3131,7 +3271,7 @@
             "Droids with unspecified pronouns",
             "Viper probe droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/a/a8/V0-RK_OrlSent_Gallery.jpg/revision/latest/scale-to-width-down/500?cb=20210424163410.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/a/a8/V0-RK_OrlSent_Gallery.jpg",
         "death": "By 34 ABY",
         "manufacturer": "Arakyd Industries",
         "model": "Viper probe droid",
@@ -3141,7 +3281,9 @@
         "plating": "Gray",
         "armament": "Blaster",
         "equipment": "Communicator",
-        "affiliation": "Galactic Empire"
+        "affiliation": [
+            "Galactic Empire"
+        ]
     },
     "darth vader's droid": {
         "name": "Darth Vader's droid",
@@ -3169,7 +3311,7 @@
             "Droids of the Galactic Empire",
             "Viper probe droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/4/4f/Arakyd_Viper.jpg/revision/latest/scale-to-width-down/350?cb=20080318122730.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/4/4f/Arakyd_Viper.jpg",
         "homeworld": "Vulpter",
         "birth": "Sometime after the Clone Wars",
         "death": "3 ABY, Hoth",
@@ -3204,7 +3346,7 @@
             "Sith droids",
             "SP-4 ISC units"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/4/4d/Zed-6-7_DV2.jpg/revision/latest/scale-to-width-down/499?cb=20200312080458.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/4/4d/Zed-6-7_DV2.jpg",
         "death": [
             "3 ABY, Polis Massa (later rebuilt)",
             "Between 3 ABY and 4 ABY, Executor (rebuilt)"
@@ -3308,7 +3450,9 @@
         "pronouns": "He/him",
         "sensor": "Blue",
         "plating": "Yellow, rust-colored, and gray",
-        "affiliation": "Jedi Order"
+        "affiliation": [
+            "Jedi Order"
+        ]
     },
     "a6-g2": {
         "name": "A6-G2",
@@ -3332,7 +3476,9 @@
             "Holoprojector",
             "Various dataports"
         ],
-        "affiliation": "Jedi Order"
+        "affiliation": [
+            "Jedi Order"
+        ]
     },
     "ad-3": {
         "name": "AD-3",
@@ -3343,13 +3489,15 @@
             "Droids with she/her pronouns",
             "Protocol droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/e/e0/AD-3_SWcom.jpg/revision/latest/scale-to-width-down/350?cb=20230406200029.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/e/e0/AD-3_SWcom.jpg",
         "class": "Protocol droid",
         "gender": "Feminine programming",
         "pronouns": "She/her",
         "sensor": "Blue",
         "plating": "Silver",
-        "affiliation": "Jedi Order"
+        "affiliation": [
+            "Jedi Order"
+        ]
     },
     "aitch-sixteen": {
         "name": "Aitch-Sixteen",
@@ -3360,7 +3508,9 @@
         ],
         "image": null,
         "class": "Astromech droid",
-        "affiliation": "Jedi Order"
+        "affiliation": [
+            "Jedi Order"
+        ]
     },
     "arex": {
         "name": "Arex",
@@ -3395,11 +3545,13 @@
             "Droids of the Jedi Order",
             "R-series droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/9/96/R9L9.jpg/revision/latest/scale-to-width-down/500?cb=20230514222011.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/9/96/R9L9.jpg",
         "line": "R-series",
         "class": "Astromech droid",
         "plating": "Red, white and black",
-        "affiliation": "Jedi Order"
+        "affiliation": [
+            "Jedi Order"
+        ]
     },
     "bd-1": {
         "name": "BD-1",
@@ -3439,7 +3591,9 @@
         ],
         "image": null,
         "class": "Astromech droid",
-        "affiliation": "Jedi Order"
+        "affiliation": [
+            "Jedi Order"
+        ]
     },
     "cator": {
         "name": "Cator",
@@ -3450,10 +3604,12 @@
             "Articles needing illustration",
             "Droids of the Jedi Order"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/b/ba/Cator.jpg/revision/latest/scale-to-width-down/500?cb=20171230155735.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/b/ba/Cator.jpg",
         "death": "19 BBY, Jedi Temple, Coruscant",
         "plating": "Gray (with gold markings)",
-        "affiliation": "Jedi Order"
+        "affiliation": [
+            "Jedi Order"
+        ]
     },
     "dd-1a": {
         "name": "DD-1A",
@@ -3464,7 +3620,9 @@
             "Droids of unspecified degree"
         ],
         "image": "https://static.wikia.nocookie.net/starwars/images/e/ef/DD1A-THRTheEdgeOfBalanceVol1.png",
-        "affiliation": "Jedi Order"
+        "affiliation": [
+            "Jedi Order"
+        ]
     },
     "dee": {
         "name": "Dee",
@@ -3479,7 +3637,9 @@
         "image": "https://static.wikia.nocookie.net/starwars/images/5/59/Dee_YJA_S1.png",
         "sensor": "Blue",
         "plating": "Bronze and gold",
-        "affiliation": "Jedi Order"
+        "affiliation": [
+            "Jedi Order"
+        ]
     },
     "geegee": {
         "name": "Geegee",
@@ -3489,15 +3649,18 @@
             "Droids of unspecified degree",
             "Ossus residents"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/0/0a/Geegee.jpg/revision/latest/scale-to-width-down/311?cb=20191219081840.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/0/0a/Geegee.jpg",
         "sensor": "Yellow",
         "plating": "Silver",
-        "affiliation": "Jedi Order"
+        "affiliation": [
+            "Jedi Order"
+        ]
     },
     "huyang": {
         "name": "Huyang",
         "categories": [
             "Canon articles",
+            "Articles needing illustration",
             "Articles with spoilers",
             "Articles to be expanded",
             "Authors",
@@ -3533,7 +3696,9 @@
         "image": null,
         "class": "Logistics droid",
         "plating": "Copper",
-        "affiliation": "Jedi Order"
+        "affiliation": [
+            "Jedi Order"
+        ]
     },
     "jn-66-0": {
         "name": "JN-66-0",
@@ -3548,7 +3713,9 @@
         "model": "JN-66 analysis droid",
         "class": "Analysis droid",
         "plating": "Gray",
-        "affiliation": "Jedi Order"
+        "affiliation": [
+            "Jedi Order"
+        ]
     },
     "kc-78": {
         "name": "KC-78",
@@ -3568,7 +3735,9 @@
             "Holoprojector",
             "Microanalyzer"
         ],
-        "affiliation": "Jedi Order"
+        "affiliation": [
+            "Jedi Order"
+        ]
     },
     "l-5g6": {
         "name": "L-5G6",
@@ -3603,7 +3772,9 @@
         "gender": "Masculine programming",
         "sensor": "Black",
         "plating": "Yellow, white and orange",
-        "affiliation": "Jedi Order"
+        "affiliation": [
+            "Jedi Order"
+        ]
     },
     "m-3m4": {
         "name": "M-3M4",
@@ -3616,7 +3787,9 @@
         "image": null,
         "class": "Protocol droid",
         "plating": "Green",
-        "affiliation": "Jedi Order"
+        "affiliation": [
+            "Jedi Order"
+        ]
     },
     "m5-bz": {
         "name": "M5-BZ",
@@ -3656,11 +3829,13 @@
             "Droids with masculine programming",
             "Pilot droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/9/90/PZ1-3-HRA1.jpg/revision/latest/scale-to-width-down/350?cb=20210204082014.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/9/90/PZ1-3-HRA1.jpg",
         "gender": "Masculine programming",
         "sensor": "Blue",
         "plating": "Gray",
-        "affiliation": "Jedi Order"
+        "affiliation": [
+            "Jedi Order"
+        ]
     },
     "q-2": {
         "name": "Q-2",
@@ -3670,10 +3845,12 @@
             "Droids of the Jedi Order",
             "Droids of unspecified degree"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/5/5f/Q2-TrailOfShadows1.jpg/revision/latest/scale-to-width-down/500?cb=20211013235426.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/5/5f/Q2-TrailOfShadows1.jpg",
         "sensor": "Blue",
         "plating": "Gray",
-        "affiliation": "Jedi Order"
+        "affiliation": [
+            "Jedi Order"
+        ]
     },
     "qt-kt": {
         "name": "QT-KT",
@@ -3714,7 +3891,7 @@
             "R-series droids",
             "Unidentified astromech droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/c/c4/QuiGonDroid.jpg/revision/latest/scale-to-width-down/350?cb=20200112033033.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/c/c4/QuiGonDroid.jpg",
         "manufacturer": "Industrial Automation",
         "line": "R-series",
         "class": "Astromech droid",
@@ -3733,7 +3910,7 @@
             "Droids of the Jedi Order",
             "R2-series astromech droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/e/e7/R2-MK_cropped.jpg/revision/latest/scale-to-width-down/275?cb=20200507023035.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/e/e7/R2-MK_cropped.jpg",
         "model": "R2-series astromech droid",
         "class": "Astromech droid",
         "sensor": "Blue, yellow",
@@ -3759,7 +3936,9 @@
         "model": "R4-P Astromech",
         "class": "Astromech droid",
         "plating": "Blue-green and grey",
-        "affiliation": "Jedi Order"
+        "affiliation": [
+            "Jedi Order"
+        ]
     },
     "r4-g9": {
         "name": "R4-G9",
@@ -3793,7 +3972,7 @@
             "Galactic Republic droids",
             "R4-series agromech droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/7/7c/YellowR4-R2CH.jpg/revision/latest?cb=20110923035049.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/7/7c/YellowR4-R2CH.jpg",
         "line": "R-series",
         "model": "R4 astromech",
         "class": "Astromech droid",
@@ -3897,7 +4076,9 @@
         "class": "Astromech droid",
         "gender": "Masculine programming",
         "sensor": "Red",
-        "affiliation": "Jedi Order"
+        "affiliation": [
+            "Jedi Order"
+        ]
     },
     "r8-b7": {
         "name": "R8-B7",
@@ -3937,7 +4118,9 @@
         "gender": "Masculine programming",
         "sensor": "Black",
         "plating": "Blue and silver",
-        "affiliation": "Jedi Order"
+        "affiliation": [
+            "Jedi Order"
+        ]
     },
     "rw-22": {
         "name": "RW-22",
@@ -3951,7 +4134,9 @@
         "class": "Astromech droid",
         "sensor": "Red",
         "plating": "White and yellow",
-        "affiliation": "Jedi Order"
+        "affiliation": [
+            "Jedi Order"
+        ]
     },
     "t-p3o": {
         "name": "T-P3O",
@@ -3964,7 +4149,9 @@
         "image": "https://static.wikia.nocookie.net/starwars/images/9/90/TP30.png",
         "class": "Protocol droid",
         "plating": "Silver",
-        "affiliation": "Jedi Order"
+        "affiliation": [
+            "Jedi Order"
+        ]
     },
     "u9-c4": {
         "name": "U9-C4",
@@ -4008,7 +4195,9 @@
         "gender": "Masculine programming",
         "sensor": "White",
         "plating": "Green",
-        "affiliation": "Jedi Order"
+        "affiliation": [
+            "Jedi Order"
+        ]
     },
     "unidentified droid (elphrona outpost)": {
         "name": "Unidentified droid (Elphrona Outpost)",
@@ -4022,7 +4211,9 @@
         "image": "https://static.wikia.nocookie.net/starwars/images/c/c6/ElphronaDroidTHRAAnnual.png",
         "sensor": "Red",
         "plating": "Silver",
-        "affiliation": "Jedi Order"
+        "affiliation": [
+            "Jedi Order"
+        ]
     },
     "unidentified lep servant droid (trueping's)": {
         "name": "Unidentified LEP servant droid (Trueping's)",
@@ -4041,7 +4232,9 @@
         "sensor": "White",
         "armament": "None",
         "equipment": "None",
-        "affiliation": "Jedi Order"
+        "affiliation": [
+            "Jedi Order"
+        ]
     },
     "unidentified protocol droid model": {
         "name": "Unidentified protocol droid model",
@@ -4056,7 +4249,9 @@
         "creator": "Shi-Fara",
         "class": "Protocol droid",
         "degree": "Third-degree droid",
-        "affiliation": "Jedi Order",
+        "affiliation": [
+            "Jedi Order"
+        ],
         "firstmade": "196 BBY"
     },
     "unidentified science droid": {
@@ -4078,7 +4273,9 @@
             "Shaving device",
             "Injection syringe"
         ],
-        "affiliation": "Jedi Order"
+        "affiliation": [
+            "Jedi Order"
+        ]
     },
     "unidentified sparring droid": {
         "name": "Unidentified sparring droid",
@@ -4095,7 +4292,9 @@
             "Clawlike hands",
             "Treads"
         ],
-        "affiliation": "Jedi Order"
+        "affiliation": [
+            "Jedi Order"
+        ]
     },
     "v-18": {
         "name": "V-18",
@@ -4106,7 +4305,7 @@
             "Droids of unspecified degree",
             "Droids with masculine programming"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/b/b4/V-18.jpg/revision/latest/scale-to-width-down/500?cb=20210802092507.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/b/b4/V-18.jpg",
         "gender": "Masculine programming",
         "sensor": "Yellow",
         "plating": "Purple",
@@ -4115,7 +4314,9 @@
             "Flamethrower"
         ],
         "equipment": "Propulsor unit",
-        "affiliation": "Jedi Order"
+        "affiliation": [
+            "Jedi Order"
+        ]
     },
     "zn-a4": {
         "name": "ZN-A4",
@@ -4132,7 +4333,9 @@
         "pronouns": "She/her",
         "sensor": "Yellow",
         "plating": "Silver",
-        "affiliation": "Jedi Order"
+        "affiliation": [
+            "Jedi Order"
+        ]
     },
     "zz-10": {
         "name": "ZZ-10",
@@ -4142,7 +4345,9 @@
             "Droids of the Jedi Order"
         ],
         "image": "https://static.wikia.nocookie.net/starwars/images/e/e2/ZZ-10.png",
-        "affiliation": "Jedi Order"
+        "affiliation": [
+            "Jedi Order"
+        ]
     },
     "0-mr1": {
         "name": "0-MR1",
@@ -4160,7 +4365,9 @@
         "height": "1.7 meters",
         "sensor": "Black",
         "plating": "Red primer, silver overlay",
-        "affiliation": "First Order"
+        "affiliation": [
+            "First Order"
+        ]
     },
     "5-l": {
         "name": "5-L",
@@ -4169,14 +4376,16 @@
             "First Order droids",
             "MSE-6-series repair droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/a/a2/5-L.jpg/revision/latest/scale-to-width-down/500?cb=20200127152430.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/a/a2/5-L.jpg",
         "line": "MSE series",
         "model": "MSE-6 series repair droid",
         "class": "Repair droid",
         "height": "0.25 meters",
         "plating": "Black",
         "equipment": "Scomp link",
-        "affiliation": "First Order"
+        "affiliation": [
+            "First Order"
+        ]
     },
     "bb-9e": {
         "name": "BB-9E",
@@ -4194,7 +4403,9 @@
         "sensor": "Red",
         "plating": "Black",
         "equipment": "Photoreceptors in every visual spectrum",
-        "affiliation": "First Order"
+        "affiliation": [
+            "First Order"
+        ]
     },
     "bb-k8": {
         "name": "BB-K8",
@@ -4204,13 +4415,15 @@
             "BB-series astromech droids",
             "First Order droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/c/c2/BB-K8.jpg/revision/latest/scale-to-width-down/301?cb=20180204002503.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/c/c2/BB-K8.jpg",
         "death": "34 ABY, Luprora",
         "model": "BB-series astromech droid",
         "class": "Astromech droid",
         "sensor": "Yellow",
         "plating": "Black",
-        "affiliation": "First Order"
+        "affiliation": [
+            "First Order"
+        ]
     },
     "emdee": {
         "name": "Emdee",
@@ -4224,7 +4437,9 @@
         "model": "MD-series medical droid",
         "class": "Medical droid",
         "plating": "Gray",
-        "affiliation": "First Order"
+        "affiliation": [
+            "First Order"
+        ]
     },
     "iris (droid)": {
         "name": "Iris (droid)",
@@ -4239,7 +4454,9 @@
         "death": "34 ABY, Absolution",
         "class": "Communications droid",
         "gender": "Feminine programming",
-        "affiliation": "First Order"
+        "affiliation": [
+            "First Order"
+        ]
     },
     "it-000-xz 1594": {
         "name": "IT-000-XZ 1594",
@@ -4248,10 +4465,12 @@
             "First Order droids",
             "Torture droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/0/02/IT-000.jpg/revision/latest/scale-to-width-down/500?cb=20160113043149.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/0/02/IT-000.jpg",
         "model": "IT-000 interrogator droid",
         "class": "Interrogator droid",
-        "affiliation": "First Order"
+        "affiliation": [
+            "First Order"
+        ]
     },
     "k-4": {
         "name": "K-4",
@@ -4263,7 +4482,9 @@
         ],
         "image": null,
         "model": "Protocol droid",
-        "affiliation": "First Order"
+        "affiliation": [
+            "First Order"
+        ]
     },
     "mb-13a": {
         "name": "MB-13A",
@@ -4273,12 +4494,14 @@
             "Colossus garrison members",
             "First Order droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/e/ea/MB13_undercover.jpg/revision/latest/scale-to-width-down/499?cb=20200517080352.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/e/ea/MB13_undercover.jpg",
         "model": "BB-series astromech droid",
         "class": "Astromech droid",
         "sensor": "Red",
         "plating": "Black",
-        "affiliation": "First Order"
+        "affiliation": [
+            "First Order"
+        ]
     },
     "ra-7-d4": {
         "name": "RA-7-D4",
@@ -4317,7 +4540,9 @@
         "height": "1.24 meters",
         "sensor": "Black",
         "plating": "Blue",
-        "affiliation": "Galactic Republic"
+        "affiliation": [
+            "Galactic Republic"
+        ]
     },
     "5-triad": {
         "name": "5-Triad",
@@ -4350,7 +4575,9 @@
         "image": null,
         "class": "Protocol droid",
         "pronouns": "She/her",
-        "affiliation": "Galactic Republic"
+        "affiliation": [
+            "Galactic Republic"
+        ]
     },
     "b1-0516": {
         "name": "B1-0516",
@@ -4364,7 +4591,7 @@
             "Galactic Republic military personnel",
             "Separatist droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/0/08/B1-0516.jpg/revision/latest?cb=20190327080156.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/0/08/B1-0516.jpg",
         "line": "B-series battle droid",
         "model": "B1-series battle droid",
         "class": "Battle droid",
@@ -4389,7 +4616,7 @@
             "Galactic Republic droids",
             "LIN demolitionmech autonomous minelayers"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/b/b9/The_Beast.jpg/revision/latest/scale-to-width-down/500?cb=20170120033359.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/b/b9/The_Beast.jpg",
         "model": "Modified LIN demolitionmech autonomous minelayer",
         "class": "Combat droid",
         "plating": "Black",
@@ -4434,7 +4661,9 @@
         "class": "Protocol droid",
         "pronouns": "She/her",
         "plating": "Silver",
-        "affiliation": "Galactic Republic"
+        "affiliation": [
+            "Galactic Republic"
+        ]
     },
     "ch-33p": {
         "name": "CH-33P",
@@ -4456,7 +4685,9 @@
         "gender": "Masculine programming",
         "sensor": "Black",
         "plating": "Gray and yellow",
-        "affiliation": "Galactic Republic"
+        "affiliation": [
+            "Galactic Republic"
+        ]
     },
     "gonky (clone force 99)": {
         "name": "Gonky (Clone Force 99)",
@@ -4526,7 +4757,9 @@
         "class": "Astromech droid",
         "sensor": "Black",
         "plating": "Black and white",
-        "affiliation": "Galactic Republic"
+        "affiliation": [
+            "Galactic Republic"
+        ]
     },
     "non-3": {
         "name": "NON-3",
@@ -4585,7 +4818,9 @@
         "model": "Police probe",
         "sensor": "Red",
         "plating": "Blue, dark gray",
-        "affiliation": "Coruscant Security Force"
+        "affiliation": [
+            "Coruscant Security Force"
+        ]
     },
     "qc-me": {
         "name": "QC-ME",
@@ -4744,7 +4979,7 @@
             "R-series droids",
             "Republic Navy personnel"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/5/5e/R5L26-ND.jpg/revision/latest?cb=20111217020352.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/5/5e/R5L26-ND.jpg",
         "manufacturer": "Industrial Automaton",
         "line": "R-series",
         "class": "Astromech droid",
@@ -4770,7 +5005,9 @@
         "height": "97 centimeters",
         "sensor": "Black",
         "plating": "Blue and white",
-        "affiliation": "Galactic Republic"
+        "affiliation": [
+            "Galactic Republic"
+        ]
     },
     "r5-u8": {
         "name": "R5-U8",
@@ -4815,7 +5052,9 @@
         "gender": "Feminine programming",
         "sensor": "Black",
         "plating": "Black and gold",
-        "affiliation": "Galactic Republic"
+        "affiliation": [
+            "Galactic Republic"
+        ]
     },
     "sd-7": {
         "name": "SD-7",
@@ -4829,7 +5068,9 @@
         "image": "https://static.wikia.nocookie.net/starwars/images/2/22/SD-7.png",
         "class": "Scout droid",
         "gender": "Masculine programming",
-        "affiliation": "Galactic Republic"
+        "affiliation": [
+            "Galactic Republic"
+        ]
     },
     "ex droid": {
         "name": "EX droid",
@@ -4840,7 +5081,7 @@
             "EX droids",
             "Galactic Republic droid models"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/9/93/EXdroid-SWCA.jpg/revision/latest?cb=20220614022308.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/9/93/EXdroid-SWCA.jpg",
         "model": "Communications droid",
         "plating": "Beige with blue- and copper-colored plating on top",
         "armament": [
@@ -4848,7 +5089,9 @@
             "Several manipulator arms",
             "An antenna"
         ],
-        "affiliation": "Galactic Republic"
+        "affiliation": [
+            "Galactic Republic"
+        ]
     },
     "ex-5a": {
         "name": "EX-5A",
@@ -4914,7 +5157,9 @@
         "height": "1.5 meters",
         "gender": "Masculine programming",
         "sensor": "Yellow",
-        "affiliation": "Galactic Republic"
+        "affiliation": [
+            "Galactic Republic"
+        ]
     },
     "tc-326": {
         "name": "TC-326",
@@ -4967,7 +5212,9 @@
         "height": "1.77 meters",
         "gender": "Masculine programming",
         "sensor": "Gray",
-        "affiliation": "Galactic Republic"
+        "affiliation": [
+            "Galactic Republic"
+        ]
     },
     "unidentified b1 battle droid (r2-d2)": {
         "name": "Unidentified B1 battle droid (R2-D2)",
@@ -5030,7 +5277,9 @@
         "manufacturer": "Industrial Automaton",
         "model": "GNK-series power droid",
         "class": "Power droid",
-        "affiliation": "Galactic Republic"
+        "affiliation": [
+            "Galactic Republic"
+        ]
     },
     "unidentified lt-16 droid": {
         "name": "Unidentified LT-16 droid",
@@ -5043,7 +5292,9 @@
         ],
         "image": null,
         "class": "LT-16 droid",
-        "affiliation": "Galactic Republic"
+        "affiliation": [
+            "Galactic Republic"
+        ]
     },
     "unidentified mse-6 droid (renown)": {
         "name": "Unidentified MSE-6 droid (Renown)",
@@ -5060,7 +5311,9 @@
         "model": "MSE-6",
         "class": "Repair droid",
         "height": "0.25 meters",
-        "affiliation": "Galactic Republic"
+        "affiliation": [
+            "Galactic Republic"
+        ]
     },
     "unidentified plnk power droid (renown)": {
         "name": "Unidentified PLNK power droid (Renown)",
@@ -5084,7 +5337,9 @@
             "Liquid tibanna tank and pump",
             "Liquid tibanna-powered generator"
         ],
-        "affiliation": "Galactic Republic"
+        "affiliation": [
+            "Galactic Republic"
+        ]
     },
     "v2a daz": {
         "name": "V2A DAZ",
@@ -5136,7 +5391,9 @@
         "class": "Battle droid",
         "plating": "Various",
         "equipment": "Various",
-        "affiliation": "Haxion Brood"
+        "affiliation": [
+            "Haxion Brood"
+        ]
     },
     "ba-gonk": {
         "name": "Ba-Gonk",
@@ -5153,7 +5410,9 @@
         "sensor": "Orange and cyan",
         "plating": "White and dark blue",
         "armament": "Wrist blaster",
-        "affiliation": "Haxion Brood"
+        "affiliation": [
+            "Haxion Brood"
+        ]
     },
     "chonk": {
         "name": "Chonk",
@@ -5169,7 +5428,9 @@
         "line": "Haxion Brood Bounty Droid",
         "sensor": "White",
         "plating": "White and Yellow",
-        "affiliation": "Haxion Brood"
+        "affiliation": [
+            "Haxion Brood"
+        ]
     },
     "clunk": {
         "name": "Clunk",
@@ -5191,7 +5452,9 @@
             "Silver"
         ],
         "armament": "Wrist blaster",
-        "affiliation": "Haxion Brood"
+        "affiliation": [
+            "Haxion Brood"
+        ]
     },
     "daschorb": {
         "name": "Daschorb",
@@ -5206,7 +5469,9 @@
         "death": "14 BBY",
         "line": "Haxion Brood Bounty Droid",
         "plating": "Yellow",
-        "affiliation": "Haxion Brood"
+        "affiliation": [
+            "Haxion Brood"
+        ]
     },
     "j-dh3": {
         "name": "J-DH3",
@@ -5227,7 +5492,9 @@
             "Blue"
         ],
         "armament": "Wrist blaster",
-        "affiliation": "Haxion Brood"
+        "affiliation": [
+            "Haxion Brood"
+        ]
     },
     "jo (bounty droid)": {
         "name": "Jo (bounty droid)",
@@ -5241,7 +5508,9 @@
         "line": "Haxion Brood Bounty Droid",
         "gender": "Feminine programming",
         "pronouns": "She/her",
-        "affiliation": "Haxion Brood"
+        "affiliation": [
+            "Haxion Brood"
+        ]
     },
     "kle-0": {
         "name": "KLE-0",
@@ -5255,7 +5524,9 @@
         "death": "9 BBY, Nova Garon",
         "line": "Haxion Brood Bounty Droid",
         "pronouns": "they/them ",
-        "affiliation": "Haxion Brood"
+        "affiliation": [
+            "Haxion Brood"
+        ]
     },
     "kompaktor": {
         "name": "Kompaktor",
@@ -5273,7 +5544,9 @@
         "sensor": "Yellow",
         "plating": "Green",
         "armament": "Wrist blaster",
-        "affiliation": "Haxion Brood"
+        "affiliation": [
+            "Haxion Brood"
+        ]
     },
     "ma-55h": {
         "name": "MA-55H",
@@ -5298,7 +5571,9 @@
             "White"
         ],
         "armament": "Melee weapons",
-        "affiliation": "Haxion Brood"
+        "affiliation": [
+            "Haxion Brood"
+        ]
     },
     "the maestro": {
         "name": "The Maestro",
@@ -5315,7 +5590,9 @@
         "sensor": "Blue",
         "plating": "Silver",
         "armament": "Wrist blaster",
-        "affiliation": "Haxion Brood"
+        "affiliation": [
+            "Haxion Brood"
+        ]
     },
     "mich murda": {
         "name": "Mich Murda",
@@ -5331,7 +5608,9 @@
         "line": "Haxion Brood Bounty Droid",
         "sensor": "Red",
         "plating": "Blue",
-        "affiliation": "Haxion Brood"
+        "affiliation": [
+            "Haxion Brood"
+        ]
     },
     "murdie": {
         "name": "Murdie",
@@ -5346,7 +5625,9 @@
         "death": "14 BBY",
         "line": "Haxion Brood Bounty Droid",
         "plating": "Red and white",
-        "affiliation": "Haxion Brood"
+        "affiliation": [
+            "Haxion Brood"
+        ]
     },
     "pr-85t": {
         "name": "PR-85T",
@@ -5360,7 +5641,9 @@
         "line": "Haxion Brood Bounty Droid",
         "gender": "masculine programming",
         "pronouns": "he/him",
-        "affiliation": "Haxion Brood"
+        "affiliation": [
+            "Haxion Brood"
+        ]
     },
     "bad protocol": {
         "name": "Bad Protocol",
@@ -5378,7 +5661,9 @@
         "sensor": "White",
         "plating": "Yellow and silver",
         "armament": "Wrist blaster",
-        "affiliation": "Haxion Brood"
+        "affiliation": [
+            "Haxion Brood"
+        ]
     },
     "reviktor": {
         "name": "Reviktor",
@@ -5394,7 +5679,9 @@
         "line": "Haxion Brood Bounty Droid",
         "sensor": "Yellow",
         "plating": "Blue",
-        "affiliation": "Haxion Brood"
+        "affiliation": [
+            "Haxion Brood"
+        ]
     },
     "rz-12": {
         "name": "RZ-12",
@@ -5406,7 +5693,9 @@
         "image": "https://static.wikia.nocookie.net/starwars/images/8/83/RZ-12-JS.png",
         "death": "9 BBY, Koboh",
         "line": "Haxion Brood Bounty Droid",
-        "affiliation": "Haxion Brood"
+        "affiliation": [
+            "Haxion Brood"
+        ]
     },
     "slaejax": {
         "name": "Slaejax",
@@ -5422,7 +5711,9 @@
         "line": "Haxion Brood Bounty Droid",
         "sensor": "White",
         "plating": "Red and silver",
-        "affiliation": "Haxion Brood"
+        "affiliation": [
+            "Haxion Brood"
+        ]
     },
     "yuhong": {
         "name": "Yuhong",
@@ -5436,7 +5727,9 @@
         "death": "9 BBY, Jedha",
         "line": "Haxion Brood Bounty Droid",
         "pronouns": "they/them",
-        "affiliation": "Haxion Brood"
+        "affiliation": [
+            "Haxion Brood"
+        ]
     },
     "battle droid 513": {
         "name": "Battle droid 513",
@@ -5500,7 +5793,7 @@
             "Nanny droids",
             "New Republic droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/2/2c/MarshalIG-11.jpg/revision/latest/scale-to-width-down/350?cb=20230425134709.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/2/2c/MarshalIG-11.jpg",
         "death": [
             "9 ABY, Arvala-7 (later rebuilt)",
             "9 ABY, Nevarro (later rebuilt)",
@@ -5563,7 +5856,7 @@
             "Separatist droids",
             "Unidentified droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/d/d5/AnakinAssassinProbe.jpg/revision/latest/scale-to-width-down/500?cb=20110922231013.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/d/d5/AnakinAssassinProbe.jpg",
         "death": "21 BBY, aboard the Coronet",
         "class": "Assassin droid",
         "sensor": "Red",
@@ -5588,7 +5881,7 @@
             "Separatist droids",
             "Unidentified droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/8/8b/Unidentified_junk_droid.jpg/revision/latest/scale-to-width-down/305?cb=20120613132654.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/8/8b/Unidentified_junk_droid.jpg",
         "death": "c. 20 BBY, Carlac",
         "model": "Cobbled together from an IG-100 MagnaGuard, a BX-series droid commando, a T-series military strategic analysis and tactics droid and a B1-series battle droid",
         "class": "Monster droid",
@@ -5614,7 +5907,9 @@
         "class": "RIC-1200",
         "gender": "Masculine programming",
         "plating": "Gray",
-        "affiliation": "New Mandalorians"
+        "affiliation": [
+            "New Mandalorians"
+        ]
     },
     "gertee": {
         "name": "Gertee",
@@ -5629,7 +5924,9 @@
         "pronouns": "She/her",
         "sensor": "Blue",
         "plating": "Red and silver",
-        "affiliation": "Second Revelation"
+        "affiliation": [
+            "Second Revelation"
+        ]
     },
     "setar": {
         "name": "Setar",
@@ -5642,7 +5939,9 @@
         ],
         "image": "https://static.wikia.nocookie.net/starwars/images/9/95/Setar-DarkDroids-1.png",
         "plating": "White",
-        "affiliation": "Second Revelation"
+        "affiliation": [
+            "Second Revelation"
+        ]
     },
     "ajax sigma": {
         "name": "Ajax Sigma",
@@ -5654,7 +5953,7 @@
             "Freedom fighters",
             "Members of the Second Revelation"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/9/9b/AjaxSigmaRevelations1.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/6/66/Ajax.jpg",
         "homeworld": "Kligson's Moon",
         "death": "During the High Republic Era, Kligson's Moon (later rebuilt)",
         "class": "Warrior-priest droid",
@@ -5734,7 +6033,9 @@
         "height": "0.25 meters",
         "gender": "Masculine programming",
         "plating": "Black",
-        "affiliation": "New Republic"
+        "affiliation": [
+            "New Republic"
+        ]
     },
     "d6-l": {
         "name": "D6-L",
@@ -5763,10 +6064,12 @@
             "Unidentified New Republic individuals",
             "Unidentified protocol droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/6/62/Mathieson_droid.jpg/revision/latest/scale-to-width-down/499?cb=20190829100332.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/6/62/Mathieson_droid.jpg",
         "class": "Protocol droid",
         "plating": "Gold",
-        "affiliation": "New Republic"
+        "affiliation": [
+            "New Republic"
+        ]
     },
     "mister bones": {
         "name": "Mister Bones",
@@ -5815,7 +6118,9 @@
         "image": null,
         "class": "Prototype therapy droid",
         "gender": "Masculine programming",
-        "affiliation": "New Republic"
+        "affiliation": [
+            "New Republic"
+        ]
     },
     "r-k77": {
         "name": "R-K77",
@@ -5828,7 +6133,9 @@
         "image": null,
         "class": "Protocol droid",
         "plating": "White face coating",
-        "affiliation": "New Republic"
+        "affiliation": [
+            "New Republic"
+        ]
     },
     "r2-c4 (kazuda xiono)": {
         "name": "R2-C4 (Kazuda Xiono)",
@@ -5859,7 +6166,9 @@
         ],
         "image": null,
         "class": "Astromech droid",
-        "affiliation": "New Republic"
+        "affiliation": [
+            "New Republic"
+        ]
     },
     "r7 (carson teva)": {
         "name": "R7 (Carson Teva)",
@@ -5923,7 +6232,9 @@
         "pronouns": "It/its",
         "sensor": "Black",
         "plating": "White and yellow",
-        "affiliation": "New Republic"
+        "affiliation": [
+            "New Republic"
+        ]
     },
     "unidentified n5 sentry droid": {
         "name": "Unidentified N5 sentry droid",
@@ -5953,7 +6264,6 @@
             "Articles with spoilers",
             "Articles with conjectural titles",
             "Droid stubs",
-            "3PO-series protocol droids",
             "Droids with unspecified gender programming",
             "Droids with unspecified pronouns",
             "New Republic droids",
@@ -5962,11 +6272,12 @@
         ],
         "image": "https://static.wikia.nocookie.net/starwars/images/1/17/TurquoiseDroid-Ahsoka-PartOne.png",
         "death": "c. 9 ABY, Vesper, Sector G-38",
-        "model": "3PO-series protocol droid",
         "class": "Protocol droid",
         "sensor": "Yellow",
         "plating": "Turquoise",
-        "affiliation": "New Republic"
+        "affiliation": [
+            "New Republic"
+        ]
     },
     "unidentified parole droid": {
         "name": "Unidentified parole droid",
@@ -5997,7 +6308,7 @@
             "Unidentified New Republic individuals",
             "Vanguard Squadron personnel"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/a/a9/Vanguard_5s_astromech.jpg/revision/latest/scale-to-width-down/350?cb=20201030184419.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/a/a9/Vanguard_5s_astromech.jpg",
         "manufacturer": "Industrial Automaton",
         "line": "R-series",
         "model": "R2 series astromech droid",
@@ -6027,7 +6338,9 @@
         "sensor": "Black",
         "plating": "Blue",
         "equipment": "Security-grade photoreceptor with telescopic lens",
-        "affiliation": "Resistance"
+        "affiliation": [
+            "Resistance"
+        ]
     },
     "2br-ntb": {
         "name": "2BR-NTB",
@@ -6043,7 +6356,9 @@
         "class": "Astromech droid",
         "sensor": "Black",
         "plating": "Green and red",
-        "affiliation": "Resistance"
+        "affiliation": [
+            "Resistance"
+        ]
     },
     "2med2": {
         "name": "2MED2",
@@ -6062,7 +6377,9 @@
         "model": "2-1B-series medical droid",
         "class": "Medical droid",
         "height": "1.77 meters",
-        "affiliation": "Resistance"
+        "affiliation": [
+            "Resistance"
+        ]
     },
     "4b-eg-6": {
         "name": "4B-EG-6",
@@ -6095,7 +6412,7 @@
             "R-series droids",
             "Resistance droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/1/1f/6G-66.jpg/revision/latest?cb=20191002191448.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/1/1f/6G-66.jpg",
         "manufacturer": "Industrial Automation",
         "line": "R-series",
         "class": "Astromech droid",
@@ -6115,7 +6432,9 @@
         "model": "BB-series astromech droid",
         "class": "Astromech droid",
         "plating": "Green and grey",
-        "affiliation": "Resistance"
+        "affiliation": [
+            "Resistance"
+        ]
     },
     "84-sh": {
         "name": "84-SH",
@@ -6130,7 +6449,9 @@
         "class": "Astromech droid",
         "sensor": "Black with a red dot in the center",
         "plating": "Pink and gray",
-        "affiliation": "Resistance"
+        "affiliation": [
+            "Resistance"
+        ]
     },
     "9ru-mp": {
         "name": "9RU-MP",
@@ -6145,7 +6466,9 @@
         "class": "Astromech droid",
         "plating": "Red-Black",
         "equipment": "Antenna",
-        "affiliation": "Resistance"
+        "affiliation": [
+            "Resistance"
+        ]
     },
     "ad-4m": {
         "name": "AD-4M",
@@ -6158,7 +6481,9 @@
         "class": "Administrative droid",
         "plating": "White",
         "equipment": "AA-5 VerboBrain",
-        "affiliation": "Resistance"
+        "affiliation": [
+            "Resistance"
+        ]
     },
     "ag-90": {
         "name": "AG-90",
@@ -6191,7 +6516,7 @@
             "Fifth-degree droids",
             "Resistance droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/9/9f/Buford.jpg/revision/latest/scale-to-width-down/499?cb=20160113043043.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/9/9f/Buford.jpg",
         "model": "Heavy loader droid",
         "class": "Loading droid",
         "height": "1.75 meters",
@@ -6215,7 +6540,9 @@
         "sensor": "Black",
         "plating": "Tan",
         "equipment": "Grasping arms (at least 2)",
-        "affiliation": "Resistance"
+        "affiliation": [
+            "Resistance"
+        ]
     },
     "bb-8": {
         "name": "BB-8",
@@ -6285,7 +6612,7 @@
             "Blue Squadron (Resistance) personnel",
             "Resistance droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/f/f3/BR-BA_SWPD28.jpg/revision/latest?cb=20191007164120.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/f/f3/BR-BA_SWPD28.jpg",
         "death": "34 ABY, Ilum",
         "class": "Astromech droid",
         "affiliation": [
@@ -6307,7 +6634,9 @@
         "height": "0.67 meters",
         "sensor": "Black",
         "plating": "Orange and silver",
-        "affiliation": "Resistance"
+        "affiliation": [
+            "Resistance"
+        ]
     },
     "co-34": {
         "name": "CO-34",
@@ -6325,7 +6654,9 @@
         "model": "CLL-M2 binary loadlifter",
         "class": "Construction droid",
         "pronouns": "He/him",
-        "affiliation": "Resistance"
+        "affiliation": [
+            "Resistance"
+        ]
     },
     "d-o": {
         "name": "D-O",
@@ -6356,7 +6687,7 @@
             "R-series droids",
             "Resistance droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/8/8b/Deezee.jpg/revision/latest/scale-to-width-down/350?cb=20200911022455.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/8/8b/Deezee.jpg",
         "manufacturer": "Industrial Automation",
         "line": "R-series",
         "model": "Astromech droid",
@@ -6374,13 +6705,15 @@
             "Power droids",
             "Resistance droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/d/db/EG-30.jpg/revision/latest/scale-to-width-down/350?cb=20210904200335.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/d/db/EG-30.jpg",
         "manufacturer": "Industrial Automaton",
         "model": "GNK-series power droid",
         "class": "Power droid",
         "gender": "Masculine programming",
         "plating": "Blue, later grey",
-        "affiliation": "Resistance"
+        "affiliation": [
+            "Resistance"
+        ]
     },
     "eg-57": {
         "name": "EG-57",
@@ -6390,12 +6723,14 @@
             "GNK power droids",
             "Resistance droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/e/e6/EG-57_and_EG-58_EE.jpg/revision/latest/scale-to-width-down/500?cb=20190810212045.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/e/e6/EG-57_and_EG-58_EE.jpg",
         "manufacturer": "Industrial Automaton",
         "model": "GNK-series power droid",
         "class": "Power droid",
         "plating": "Green",
-        "affiliation": "Resistance"
+        "affiliation": [
+            "Resistance"
+        ]
     },
     "eg-58": {
         "name": "EG-58",
@@ -6405,12 +6740,14 @@
             "GNK power droids",
             "Resistance droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/e/e6/EG-57_and_EG-58_EE.jpg/revision/latest/scale-to-width-down/500?cb=20190810212045.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/e/e6/EG-57_and_EG-58_EE.jpg",
         "manufacturer": "Industrial Automaton",
         "model": "GNK-series power droid",
         "class": "Power droid",
         "plating": "White",
-        "affiliation": "Resistance"
+        "affiliation": [
+            "Resistance"
+        ]
     },
     "g2-pi": {
         "name": "G2-PI",
@@ -6425,7 +6762,9 @@
         "model": "G2 repair droid",
         "class": "Repair droid",
         "gender": "Masculine programming",
-        "affiliation": "Resistance"
+        "affiliation": [
+            "Resistance"
+        ]
     },
     "g2-rx": {
         "name": "G2-RX",
@@ -6440,7 +6779,9 @@
         "class": "Repair droid",
         "sensor": "Blue",
         "plating": "Gray",
-        "affiliation": "Resistance"
+        "affiliation": [
+            "Resistance"
+        ]
     },
     "ga-97": {
         "name": "GA-97",
@@ -6509,7 +6850,7 @@
             "R5-series astromech droids",
             "Resistance droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/3/3f/L4E-R5_TROSVD.jpg/revision/latest?cb=20210619093509.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/3/3f/L4E-R5_TROSVD.jpg",
         "model": "R5 series astromech droid",
         "class": "Astromech droid",
         "plating": "Orange",
@@ -6543,7 +6884,7 @@
             "BB-series astromech droids",
             "Resistance droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/f/f5/MB-12-EE.jpg/revision/latest/scale-to-width-down/500?cb=20190811011159.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/f/f5/MB-12-EE.jpg",
         "manufacturer": "Industrial Automaton",
         "model": "BB-series astromech droid",
         "class": "Astromech droid",
@@ -6567,7 +6908,9 @@
         "manufacturer": "Resistance",
         "class": "Fan droid",
         "plating": "White",
-        "affiliation": "Resistance"
+        "affiliation": [
+            "Resistance"
+        ]
     },
     "n1-zx": {
         "name": "N1-ZX",
@@ -6617,7 +6960,9 @@
         "class": "Astromech droid",
         "sensor": "Gray",
         "plating": "Blue and yellow",
-        "affiliation": "Resistance"
+        "affiliation": [
+            "Resistance"
+        ]
     },
     "pook": {
         "name": "Pook",
@@ -6633,7 +6978,9 @@
         "class": "Labor droid",
         "gender": "Masculine programming",
         "sensor": "Black",
-        "affiliation": "Resistance"
+        "affiliation": [
+            "Resistance"
+        ]
     },
     "pz-4co": {
         "name": "PZ-4CO",
@@ -6666,7 +7013,7 @@
             "Protocol droids",
             "Resistance droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/2/2f/R-3DO_Droid_Factory_card.jpg/revision/latest?cb=20170425134300.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/2/2f/R-3DO_Droid_Factory_card.jpg",
         "class": "Protocol droid",
         "gender": "Masculine programming",
         "sensor": "Yellow",
@@ -6687,7 +7034,9 @@
         "model": "R0 astromech",
         "class": "Astromech droid",
         "plating": "White, black",
-        "affiliation": "Resistance"
+        "affiliation": [
+            "Resistance"
+        ]
     },
     "r0-h2": {
         "name": "R0-H2",
@@ -6701,7 +7050,9 @@
         "image": "https://static.wikia.nocookie.net/starwars/images/1/15/R0-H2.png",
         "model": "R0 astromech",
         "class": "Astromech droid",
-        "affiliation": "Resistance"
+        "affiliation": [
+            "Resistance"
+        ]
     },
     "r2-ha": {
         "name": "R2-HA",
@@ -6738,7 +7089,9 @@
         "gender": "Masculine programming",
         "sensor": "Black",
         "plating": "Blue and silver",
-        "affiliation": "Resistance"
+        "affiliation": [
+            "Resistance"
+        ]
     },
     "r4 (black squadron)": {
         "name": "R4 (Black Squadron)",
@@ -6783,7 +7136,9 @@
             "Retractable leg",
             "System ventilation"
         ],
-        "affiliation": "Resistance"
+        "affiliation": [
+            "Resistance"
+        ]
     },
     "r5-2je": {
         "name": "R5-2JE",
@@ -6806,7 +7161,9 @@
             "Command signal bolt",
             "Spacecraft linkage and control arms"
         ],
-        "affiliation": "Resistance"
+        "affiliation": [
+            "Resistance"
+        ]
     },
     "r5-x3": {
         "name": "R5-X3",
@@ -6816,11 +7173,13 @@
             "R5-series astromech droids",
             "Resistance droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/d/d1/R5-X3_Droid_Factory.jpg/revision/latest?cb=20170412173125.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/d/d1/R5-X3_Droid_Factory.jpg",
         "line": "R5 series astromech droid",
         "class": "Astromech droid",
         "plating": "Red, white",
-        "affiliation": "Resistance"
+        "affiliation": [
+            "Resistance"
+        ]
     },
     "r6-d8": {
         "name": "R6-D8",
@@ -6833,7 +7192,7 @@
             "R6-series astromech droids",
             "Resistance droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/1/16/R6-D8-SWTROS-VD.jpg/revision/latest/scale-to-width-down/350?cb=20201208072924.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/1/16/R6-D8-SWTROS-VD.jpg",
         "death": "35 ABY, Exegol",
         "manufacturer": "Industrial Automation",
         "line": "R-series",
@@ -6866,7 +7225,9 @@
         "sensor": "Black",
         "plating": "Blue and silver",
         "equipment": "Intellex VIII",
-        "affiliation": "Resistance"
+        "affiliation": [
+            "Resistance"
+        ]
     },
     "rp-g0": {
         "name": "RP-G0",
@@ -6882,7 +7243,9 @@
         "class": "Astromech droid",
         "height": "0.97 meters",
         "plating": "Red and white",
-        "affiliation": "Resistance"
+        "affiliation": [
+            "Resistance"
+        ]
     },
     "se-4z": {
         "name": "SE-4Z",
@@ -6896,7 +7259,9 @@
         "image": null,
         "class": "Butler droid",
         "gender": "Masculine programming",
-        "affiliation": "Resistance"
+        "affiliation": [
+            "Resistance"
+        ]
     },
     "torch": {
         "name": "Torch",
@@ -6908,7 +7273,7 @@
             "Jade Squadron personnel",
             "Resistance droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/e/e9/Torch_Cropped.jpg/revision/latest/scale-to-width-down/350?cb=20191125215440.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/e/e9/Torch_Cropped.jpg",
         "class": "Astromech droid",
         "gender": "Masculine programming",
         "sensor": "Black",
@@ -6937,7 +7302,9 @@
             "Blue, white (factory colors)",
             "Yellow, copper (painted)"
         ],
-        "affiliation": "Resistance"
+        "affiliation": [
+            "Resistance"
+        ]
     },
     "v8-r": {
         "name": "V8-R",
@@ -6969,7 +7336,9 @@
         "death": "Between 31\u201332 ABY, Taul",
         "class": "Security droid",
         "pronouns": "He/him",
-        "affiliation": "Resistance"
+        "affiliation": [
+            "Resistance"
+        ]
     },
     "xa-lx": {
         "name": "XA-LX",
@@ -6980,7 +7349,7 @@
             "Red Squadron (Resistance) personnel",
             "Resistance droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/e/ea/XA-LX_and_Ello_Asty.jpg/revision/latest?cb=20200407114722.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/e/ea/XA-LX_and_Ello_Asty.jpg",
         "death": "34 ABY, Ilum",
         "class": "Astromech droid",
         "gender": "Feminine programming",
@@ -7016,7 +7385,9 @@
             "Retractable leg",
             "System ventilation"
         ],
-        "affiliation": "Resistance"
+        "affiliation": [
+            "Resistance"
+        ]
     },
     "08": {
         "name": "08",
@@ -7034,7 +7405,9 @@
         "height": "1.91 meters",
         "gender": "Masculine programming",
         "sensor": "Red",
-        "affiliation": "Confederacy of Independent Systems"
+        "affiliation": [
+            "Confederacy of Independent Systems"
+        ]
     },
     "09": {
         "name": "09",
@@ -7052,7 +7425,9 @@
         "height": "1.91 meters",
         "gender": "Masculine programming",
         "sensor": "Red",
-        "affiliation": "Confederacy of Independent Systems"
+        "affiliation": [
+            "Confederacy of Independent Systems"
+        ]
     },
     "1138 (geonosis)": {
         "name": "1138 (Geonosis)",
@@ -7148,7 +7523,7 @@
             "Confederacy military personnel",
             "Separatist droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/e/ed/3464-AOTC.jpg/revision/latest/scale-to-width-down/350?cb=20200416200729.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/e/ed/3464-AOTC.jpg",
         "death": "22 BBY, Geonosis",
         "line": "B-series battle droid",
         "model": "B1-series battle droid",
@@ -7226,7 +7601,9 @@
         "sensor": "Black",
         "plating": "Bone-white",
         "armament": "E-5 blaster rifle",
-        "affiliation": "Confederacy of Independent Systems"
+        "affiliation": [
+            "Confederacy of Independent Systems"
+        ]
     },
     "ad-w4": {
         "name": "AD-W4",
@@ -7241,11 +7618,13 @@
             "Separatist droids"
         ],
         "image": "https://static.wikia.nocookie.net/starwars/images/3/3f/Ad-w4.png",
-        "death": "22 BBY,",
+        "death": "22 BBY, Hissrich",
         "gender": "Masculine programming",
         "sensor": "Red",
         "plating": "Purple (with red markings)",
-        "affiliation": "Confederacy of Independent Systems (as a mercenary)"
+        "affiliation": [
+            "Confederacy of Independent Systems (as a mercenary)"
+        ]
     },
     "asn-121": {
         "name": "ASN-121",
@@ -7270,7 +7649,9 @@
             "Harpoon gun",
             "Kouhun canister dispenser"
         ],
-        "affiliation": "Zam Wesell"
+        "affiliation": [
+            "Zam Wesell"
+        ]
     },
     "b1-cc14": {
         "name": "B1-CC14",
@@ -7287,7 +7668,9 @@
         "model": "B1-series battle droid",
         "class": "Battle droid",
         "gender": "Masculine programming",
-        "affiliation": "Confederacy of Independent Systems"
+        "affiliation": [
+            "Confederacy of Independent Systems"
+        ]
     },
     "bd-15959": {
         "name": "BD-15959",
@@ -7510,7 +7893,9 @@
             "Power welder",
             "Various medical and surgical tools"
         ],
-        "affiliation": "Confederacy of Independent Systems"
+        "affiliation": [
+            "Confederacy of Independent Systems"
+        ]
     },
     "g21": {
         "name": "G21",
@@ -7546,7 +7931,9 @@
         "gender": "Feminine progamming",
         "sensor": "Black",
         "plating": "White",
-        "affiliation": "Confederacy of Independent Systems"
+        "affiliation": [
+            "Confederacy of Independent Systems"
+        ]
     },
     "ig-101": {
         "name": "IG-101",
@@ -7618,7 +8005,9 @@
         "model": "LEP-series service droid",
         "class": "Service droid",
         "gender": "Masculine programming",
-        "affiliation": "Dooku"
+        "affiliation": [
+            "Dooku"
+        ]
     },
     "lep-86c8": {
         "name": "LEP-86C8",
@@ -7637,7 +8026,9 @@
         "height": "1.26 meters (4 ft, 2 in)",
         "gender": "Masculine programming",
         "sensor": "White",
-        "affiliation": "Confederacy of Independent Systems"
+        "affiliation": [
+            "Confederacy of Independent Systems"
+        ]
     },
     "nd-5": {
         "name": "ND-5",
@@ -7659,7 +8050,9 @@
         "pronouns": "He/him",
         "sensor": "White",
         "plating": "Black",
-        "affiliation": "Confederacy of Independent Systems"
+        "affiliation": [
+            "Confederacy of Independent Systems"
+        ]
     },
     "o.m.5": {
         "name": "O.M.5",
@@ -7670,7 +8063,7 @@
             "Separatist Droid Army personnel",
             "Separatist droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/8/81/Om5.jpg/revision/latest/scale-to-width-down/350?cb=20091125042823.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/8/81/Om5.jpg",
         "death": "21 BBY, Geonosis",
         "line": "B-series battle droid",
         "model": "B1-series battle droid",
@@ -7770,7 +8163,7 @@
             "Droids with masculine programming",
             "Separatist droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/3/33/Q5-7070.jpg/revision/latest/scale-to-width-down/350?cb=20190327081106.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/3/33/Q5-7070.jpg",
         "line": "B-series battle droid",
         "model": "B1-series battle droid",
         "class": "Battle droid",
@@ -7791,7 +8184,7 @@
             "Droids with masculine programming",
             "Separatist droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/5/58/R0-HK.jpg/revision/latest?cb=20181102233506.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/5/58/R0-HK.jpg",
         "death": "Prior to 3 ABY",
         "manufacturer": "Baktoid Combat Automata",
         "model": "B1-series battle droid",
@@ -7854,7 +8247,9 @@
         "line": "R-series",
         "class": "Astromech droid",
         "equipment": "Holographic projector/recorder",
-        "affiliation": "Confederacy of Independent Systems"
+        "affiliation": [
+            "Confederacy of Independent Systems"
+        ]
     },
     "rb-551": {
         "name": "RB-551",
@@ -7889,7 +8284,7 @@
             "Security droids",
             "Separatist droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/b/b4/Arkay-Nine.jpg/revision/latest/scale-to-width-down/500?cb=20191025050610.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/b/b4/Arkay-Nine.jpg",
         "death": [
             "20 BBY, Mon Cala (rebuilt)",
             "34 ABY, Mon Cala"
@@ -7939,7 +8334,7 @@
             "Separatist droids",
             "Unidentified droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/3/30/AquaDroid-ARCTroopers.jpg/revision/latest/scale-to-width-down/500?cb=20120123235354.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/3/30/AquaDroid-ARCTroopers.jpg",
         "death": "c. 21 BBY, Kamino",
         "model": "AQ-series battle droid",
         "class": "Battle droid",
@@ -7951,7 +8346,9 @@
             "Grenade launcher or missile launcher (1)"
         ],
         "equipment": "Propellers (2)",
-        "affiliation": "Confederacy of Independent Systems"
+        "affiliation": [
+            "Confederacy of Independent Systems"
+        ]
     },
     "unidentified aq-series battle droid 1 (mon cala)": {
         "name": "Unidentified AQ-series battle droid 1 (Mon Cala)",
@@ -7965,7 +8362,7 @@
             "Separatist droids",
             "Unidentified droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/2/24/Unidentified_aqua_droid_lieutenant.jpg/revision/latest?cb=20120115201444.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/2/24/Unidentified_aqua_droid_lieutenant.jpg",
         "class": "AQ-series battle droid",
         "height": "2.83 meters (9 ft, 3 in)",
         "gender": "Masculine programming",
@@ -7974,7 +8371,9 @@
             "Retractable laser cannon (1)",
             "Grenade launcher or missile launcher (1)"
         ],
-        "affiliation": "Confederacy of Independent Systems"
+        "affiliation": [
+            "Confederacy of Independent Systems"
+        ]
     },
     "unidentified aq-series battle droid 2 (mon cala)": {
         "name": "Unidentified AQ-series battle droid 2 (Mon Cala)",
@@ -7988,7 +8387,7 @@
             "Separatist droids",
             "Unidentified droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/e/e1/Unidentified_aqua_droid_3.jpg/revision/latest/scale-to-width-down/500?cb=20120608153728.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/e/e1/Unidentified_aqua_droid_3.jpg",
         "class": "AQ-series battle droid",
         "height": "2.83 meters (9 ft, 3 in)",
         "sensor": "Red",
@@ -7996,7 +8395,9 @@
             "Retractable laser cannon (1)",
             "Grenade launcher or missile launcher (1)"
         ],
-        "affiliation": "Confederacy of Independent Systems"
+        "affiliation": [
+            "Confederacy of Independent Systems"
+        ]
     },
     "unidentified aq-series battle droid 3 (mon cala)": {
         "name": "Unidentified AQ-series battle droid 3 (Mon Cala)",
@@ -8010,7 +8411,7 @@
             "Separatist droids",
             "Unidentified droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/3/34/Unidentified_aqua_droid_4.jpg/revision/latest/scale-to-width-down/500?cb=20120608153946.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/3/34/Unidentified_aqua_droid_4.jpg",
         "class": "AQ-series battle droid",
         "height": "2.83 meters (9 ft, 3 in)",
         "sensor": "Red",
@@ -8018,7 +8419,9 @@
             "Retractable laser cannon (1)",
             "Grenade launcher or missile launcher (1)"
         ],
-        "affiliation": "Confederacy of Independent Systems"
+        "affiliation": [
+            "Confederacy of Independent Systems"
+        ]
     },
     "unidentified b1 battle droid (abafar)": {
         "name": "Unidentified B1 battle droid (Abafar)",
@@ -8031,7 +8434,7 @@
             "Unidentified B1 battle droids"
         ],
         "image": "https://static.wikia.nocookie.net/starwars/images/6/62/B1BattleDroidAbafar-MissingInAction.png",
-        "death": "Between 20 BBY and 19 BBY, Abafar",
+        "death": "20 BBY, Abafar",
         "line": "B-series battle droid",
         "model": "B1-series battle droid",
         "class": "Battle droid",
@@ -8064,7 +8467,7 @@
             "Separatist droids",
             "Unidentified B1 battle droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/5/57/B1SeriesBattleDroidC3PO-AOTC.jpg/revision/latest/scale-to-width-down/500?cb=20221230192039.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/5/57/B1SeriesBattleDroidC3PO-AOTC.jpg",
         "death": "22 BBY",
         "line": "B-series battle droid",
         "model": "B1-series battle droid",
@@ -8122,7 +8525,9 @@
         "gender": "Masculine programming",
         "sensor": "Black",
         "armament": "E-5 blaster rifle",
-        "affiliation": "Confederacy of Independent Systems"
+        "affiliation": [
+            "Confederacy of Independent Systems"
+        ]
     },
     "unidentified b1 battle droid (hissrich)": {
         "name": "Unidentified B1 battle droid (Hissrich)",
@@ -8160,7 +8565,7 @@
             "Trade Federation military members",
             "Unidentified B1 battle droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/7/7f/B1SeriesBattleDroid-SphereOfInfluence.jpg/revision/latest/scale-to-width-down/499?cb=20120126182910.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/7/7f/B1SeriesBattleDroid-SphereOfInfluence.jpg",
         "line": "B-series",
         "model": "B1-series battle droid",
         "class": "Battle droid",
@@ -8190,7 +8595,9 @@
         "height": "1.93 meters (6 ft, 3 in)",
         "gender": "Masculine programing",
         "sensor": "Black",
-        "affiliation": "Confederacy of Independent Systems"
+        "affiliation": [
+            "Confederacy of Independent Systems"
+        ]
     },
     "unidentified b1 battle droid (outer corridor of space)": {
         "name": "Unidentified B1 battle droid (outer corridor of space)",
@@ -8201,7 +8608,7 @@
             "Separatist droids",
             "Unidentified B1 battle droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/a/ae/B1SeriesBattleDroid-DownfallOfADroid.jpg/revision/latest?cb=20120627193129.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/a/ae/B1SeriesBattleDroid-DownfallOfADroid.jpg",
         "death": "22 BBY, Confederate space",
         "line": "B-series battle droid",
         "model": "B1-series battle droid",
@@ -8223,7 +8630,7 @@
             "Confederacy military personnel",
             "Separatist droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/4/44/RishiMoonB1SeriesBattleDroid2-Rookies.jpg/revision/latest/scale-to-width-down/350?cb=20120626162008.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/4/44/RishiMoonB1SeriesBattleDroid2-Rookies.jpg",
         "death": "22 BBY, Rishi Moon",
         "line": "B-series battle droid",
         "model": "B1-series battle droid",
@@ -8232,7 +8639,9 @@
         "gender": "Masculine programing",
         "sensor": "Black",
         "armament": "E-5 blaster rifle",
-        "affiliation": "Confederacy of Independent Systems"
+        "affiliation": [
+            "Confederacy of Independent Systems"
+        ]
     },
     "unidentified b1 battle droid (ryloth)": {
         "name": "Unidentified B1 battle droid (Ryloth)",
@@ -8265,7 +8674,7 @@
             "Separatist droids",
             "Unidentified B1 battle droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/0/0c/Unidentified_Battle_Droid_LoT.jpg/revision/latest/scale-to-width-down/350?cb=20091130185823.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/0/0c/Unidentified_Battle_Droid_LoT.jpg",
         "line": "B-series battle droid",
         "model": "B1-series battle droid",
         "class": "Battle droid",
@@ -8299,7 +8708,9 @@
         "sensor": "Black",
         "armament": "E-5 blaster rifle",
         "equipment": "Vocabulator",
-        "affiliation": "Confederacy of Independent Systems"
+        "affiliation": [
+            "Confederacy of Independent Systems"
+        ]
     },
     "unidentified b1 battle droid 1 (rugosa)": {
         "name": "Unidentified B1 battle droid 1 (Rugosa)",
@@ -8334,7 +8745,7 @@
             "Separatist droids",
             "Unidentified B1 battle droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/4/4c/B1SeriesBattleDroid-DuelOfTheDroids.jpg/revision/latest?cb=20120628213635.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/4/4c/B1SeriesBattleDroid-DuelOfTheDroids.jpg",
         "death": "22 BBY, Skytop Station",
         "line": "B-series battle droid",
         "model": "B1-series battle droid",
@@ -8343,7 +8754,9 @@
         "gender": "Masculine programing",
         "sensor": "Black",
         "armament": "E-5 blaster rifle",
-        "affiliation": "Confederacy of Independent Systems"
+        "affiliation": [
+            "Confederacy of Independent Systems"
+        ]
     },
     "unidentified b1 battle droid 2 (kiros)": {
         "name": "Unidentified B1 battle droid 2 (Kiros)",
@@ -8355,7 +8768,7 @@
             "Separatist droids",
             "Unidentified B1 battle droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/2/27/B1SeriesBattleDroid2-Kidnapped.jpg/revision/latest/scale-to-width-down/500?cb=20120121103626.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/2/27/B1SeriesBattleDroid2-Kidnapped.jpg",
         "line": "B-series",
         "model": "B1-series battle droid",
         "class": "Battle droid",
@@ -8364,7 +8777,9 @@
         "sensor": "Black",
         "armament": "E-5 blaster rifle",
         "equipment": "Vocabulator",
-        "affiliation": "Confederacy of Independent Systems"
+        "affiliation": [
+            "Confederacy of Independent Systems"
+        ]
     },
     "unidentified b1 battle droid 2 (rugosa)": {
         "name": "Unidentified B1 battle droid 2 (Rugosa)",
@@ -8401,7 +8816,7 @@
             "Separatist droids",
             "Unidentified B1 battle droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/1/19/B1SeriesBattleDroid2-DuelOfTheDroids.jpg/revision/latest?cb=20120628214311.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/1/19/B1SeriesBattleDroid2-DuelOfTheDroids.jpg",
         "death": "22 BBY, Skytop Station",
         "line": "B-series battle droid",
         "model": "B1-series battle droid",
@@ -8410,7 +8825,9 @@
         "gender": "Masculine programing",
         "sensor": "Black",
         "armament": "E-5 blaster rifle",
-        "affiliation": "Confederacy of Independent Systems"
+        "affiliation": [
+            "Confederacy of Independent Systems"
+        ]
     },
     "unidentified b1 battle droid 3 (rugosa)": {
         "name": "Unidentified B1 battle droid 3 (Rugosa)",
@@ -8447,7 +8864,7 @@
             "Separatist droids",
             "Unidentified B1 battle droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/5/5c/B1SeriesBattleDroid3-DuelOfTheDroids.jpg/revision/latest?cb=20120628214209.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/5/5c/B1SeriesBattleDroid3-DuelOfTheDroids.jpg",
         "death": "22 BBY, Skytop Station",
         "line": "B-series battle droid",
         "model": "B1-series battle droid",
@@ -8456,7 +8873,9 @@
         "gender": "Masculine programing",
         "sensor": "Black",
         "armament": "E-5 blaster rifle",
-        "affiliation": "Confederacy of Independent Systems"
+        "affiliation": [
+            "Confederacy of Independent Systems"
+        ]
     },
     "unidentified b1 battle droid 4 (rugosa)": {
         "name": "Unidentified B1 battle droid 4 (Rugosa)",
@@ -8678,7 +9097,9 @@
             "Thermal detonator",
             "Vibrosword"
         ],
-        "affiliation": "Confederacy of Independent Systems"
+        "affiliation": [
+            "Confederacy of Independent Systems"
+        ]
     },
     "ta-175": {
         "name": "TA-175",
@@ -8736,7 +9157,9 @@
         "model": "ST-series military strategic analysis and tactics droid",
         "height": "1.94 meters",
         "sensor": "Orange",
-        "affiliation": "Confederacy of Independent Systems"
+        "affiliation": [
+            "Confederacy of Independent Systems"
+        ]
     },
     "tf-1726": {
         "name": "TF-1726",
@@ -8885,7 +9308,9 @@
         "model": "T-series military strategic analysis and tactics droid",
         "gender": "Masculine programming",
         "sensor": "White",
-        "affiliation": "Confederacy of Independent Systems"
+        "affiliation": [
+            "Confederacy of Independent Systems"
+        ]
     },
     "tv-94": {
         "name": "TV-94",
@@ -8970,7 +9395,9 @@
         "height": "1.93 meters",
         "gender": "Masculine programming",
         "sensor": "White",
-        "affiliation": "Confederacy of Independent Systems"
+        "affiliation": [
+            "Confederacy of Independent Systems"
+        ]
     },
     "tx-532": {
         "name": "TX-532",
@@ -9053,7 +9480,9 @@
         "gender": "Masculine programming",
         "sensor": "Black",
         "armament": "E-5 blaster rifle",
-        "affiliation": "Confederacy of Independent Systems"
+        "affiliation": [
+            "Confederacy of Independent Systems"
+        ]
     },
     "unidentified b1 battle droid lieutenant (opop hibbedit)": {
         "name": "Unidentified B1 battle droid lieutenant (Opop Hibbedit)",
@@ -9065,7 +9494,7 @@
             "Separatist droid officers",
             "Unidentified B1 battle droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/a/a0/B1Lieutenant.jpg/revision/latest/scale-to-width-down/500?cb=20200717091554.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/a/a0/B1Lieutenant.jpg",
         "line": "B-series battle droid",
         "model": "B1-series battle droid",
         "class": "Battle droid",
@@ -9165,7 +9594,9 @@
         "gender": "Masculine programing",
         "sensor": "White",
         "armament": "E-5 blaster rifle",
-        "affiliation": "Confederacy of Independent Systems"
+        "affiliation": [
+            "Confederacy of Independent Systems"
+        ]
     },
     "unidentified bx-series droid commando captain (citadel)": {
         "name": "Unidentified BX-series droid commando captain (Citadel)",
@@ -9184,7 +9615,9 @@
         "gender": "Masculine programming",
         "sensor": "White",
         "armament": "E-5 blaster rifle",
-        "affiliation": "Confederacy of Independent Systems"
+        "affiliation": [
+            "Confederacy of Independent Systems"
+        ]
     },
     "unidentified droid (citadel)": {
         "name": "Unidentified droid (Citadel)",
@@ -9213,7 +9646,9 @@
             "Unidentified droids"
         ],
         "image": null,
-        "affiliation": "Confederacy of Independent Systems"
+        "affiliation": [
+            "Confederacy of Independent Systems"
+        ]
     },
     "unidentified oom command battle droid (anaxes)": {
         "name": "Unidentified OOM command battle droid (Anaxes)",
@@ -9258,7 +9693,9 @@
         "height": "1.93 meters",
         "gender": "Masculine programming",
         "sensor": "Black",
-        "affiliation": "Confederacy of Independent Systems"
+        "affiliation": [
+            "Confederacy of Independent Systems"
+        ]
     },
     "unidentified oom command battle droid (desix)": {
         "name": "Unidentified OOM command battle droid (Desix)",
@@ -9270,7 +9707,7 @@
             "Separatist holdouts individuals",
             "Unidentified OOM battle droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/2/2b/OOMCommandBattleDroid-TheSolitaryClone.jpg/revision/latest/scale-to-width-down/350?cb=20230830131614.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/2/2b/OOMCommandBattleDroid-TheSolitaryClone.jpg",
         "death": "19 BBY, Desix",
         "manufacturer": "Baktoid Combat Automata",
         "line": "OOM-series battle droid",
@@ -9327,7 +9764,9 @@
         "gender": "Masculine programming",
         "sensor": "Black",
         "armament": "E-5 blaster rifle",
-        "affiliation": "Confederacy of Independent Systems"
+        "affiliation": [
+            "Confederacy of Independent Systems"
+        ]
     },
     "unidentified oom command battle droid (hisseen)": {
         "name": "Unidentified OOM command battle droid (Hisseen)",
@@ -9339,7 +9778,7 @@
             "Separatist droid officers",
             "Unidentified OOM battle droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/9/94/HisseenOOM.jpg/revision/latest/scale-to-width-down/500?cb=20200806132422.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/9/94/HisseenOOM.jpg",
         "death": "22 BBY, Hisseen",
         "manufacturer": "Baktoid Combat Automata",
         "line": "OOM-series battle droid",
@@ -9371,7 +9810,9 @@
         "height": "1.93 meters",
         "gender": "Masculine programming",
         "sensor": "Black",
-        "affiliation": "Confederacy of Independent Systems"
+        "affiliation": [
+            "Confederacy of Independent Systems"
+        ]
     },
     "unidentified oom command battle droid (maridun)": {
         "name": "Unidentified OOM command battle droid (Maridun)",
@@ -9393,7 +9834,9 @@
         "height": "1.93 meters (6 ft, 4 in)",
         "gender": "Masculine programming",
         "sensor": "Black",
-        "affiliation": "Confederacy of Independent Systems"
+        "affiliation": [
+            "Confederacy of Independent Systems"
+        ]
     },
     "unidentified oom command battle droid (onderon)": {
         "name": "Unidentified OOM command battle droid (Onderon)",
@@ -9527,7 +9970,9 @@
         "height": "1.93 meters",
         "gender": "Masculine programming",
         "sensor": "Black",
-        "affiliation": "Confederacy of Independent Systems"
+        "affiliation": [
+            "Confederacy of Independent Systems"
+        ]
     },
     "unidentified oom command battle droid 2 (malevolence)": {
         "name": "Unidentified OOM command battle droid 2 (Malevolence)",
@@ -9546,7 +9991,9 @@
         "height": "1.93 meters",
         "gender": "Masculine programming",
         "sensor": "Black",
-        "affiliation": "Confederacy of Independent Systems"
+        "affiliation": [
+            "Confederacy of Independent Systems"
+        ]
     },
     "unidentified oom command battle droid 2 (ryloth blockade)": {
         "name": "Unidentified OOM command battle droid 2 (Ryloth blockade)",
@@ -9589,7 +10036,9 @@
         "height": "1.93 meters",
         "gender": "Masculine programming",
         "sensor": "Black",
-        "affiliation": "Confederacy of Independent Systems"
+        "affiliation": [
+            "Confederacy of Independent Systems"
+        ]
     },
     "unidentified oom command battle droid 2 (teth)": {
         "name": "Unidentified OOM command battle droid 2 (Teth)",
@@ -9608,7 +10057,9 @@
         "height": "1.93 meters",
         "gender": "Masculine programming",
         "sensor": "Black",
-        "affiliation": "Confederacy of Independent Systems"
+        "affiliation": [
+            "Confederacy of Independent Systems"
+        ]
     },
     "unidentified oom command battle droid 3 (teth)": {
         "name": "Unidentified OOM command battle droid 3 (Teth)",
@@ -9626,7 +10077,9 @@
         "height": "1.93 meters",
         "gender": "Masculine programming",
         "sensor": "Black",
-        "affiliation": "Confederacy of Independent Systems"
+        "affiliation": [
+            "Confederacy of Independent Systems"
+        ]
     },
     "unidentified oom command droid (tatooine)": {
         "name": "Unidentified OOM command droid (Tatooine)",
@@ -9644,7 +10097,9 @@
         "height": "1.93 meters",
         "gender": "Masculine programming",
         "sensor": "Black",
-        "affiliation": "Confederacy of Independent Systems"
+        "affiliation": [
+            "Confederacy of Independent Systems"
+        ]
     },
     "unidentified st-series military strategic analysis and tactics droid (anaxes)": {
         "name": "Unidentified ST-series military strategic analysis and tactics droid (Anaxes)",
@@ -9711,7 +10166,9 @@
         "height": "1.94 meters",
         "gender": "Masculine programming",
         "sensor": "Yellow",
-        "affiliation": "Confederacy of Independent Systems"
+        "affiliation": [
+            "Confederacy of Independent Systems"
+        ]
     },
     "unidentified super tactical droid (melagawni)": {
         "name": "Unidentified super tactical droid (Melagawni)",
@@ -9723,7 +10180,7 @@
             "Super tactical droids",
             "Unidentified droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/f/fc/STDroid_BT4.jpg/revision/latest/scale-to-width-down/500?cb=20200826231403.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/f/fc/STDroid_BT4.jpg",
         "death": "22 BBY, Melagawni",
         "manufacturer": "Baktoid Combat Automata",
         "model": "ST-series military strategic analysis and tactics droid",
@@ -9754,7 +10211,9 @@
         "height": "1.94 meters",
         "gender": "Masculine programming",
         "sensor": "Red",
-        "affiliation": "Confederacy of Independent Systems"
+        "affiliation": [
+            "Confederacy of Independent Systems"
+        ]
     },
     "unidentified t-series military strategic analysis and tactics droid (anaxes)": {
         "name": "Unidentified T-series military strategic analysis and tactics droid (Anaxes)",
@@ -9794,7 +10253,9 @@
         "height": "1.93 meters",
         "gender": "Masculine programming",
         "sensor": "White",
-        "affiliation": "Confederacy of Independent Systems"
+        "affiliation": [
+            "Confederacy of Independent Systems"
+        ]
     },
     "unidentified t-series tactical droid (corellia)": {
         "name": "Unidentified T-series tactical droid (Corellia)",
@@ -9842,7 +10303,9 @@
         "sensor": "Yellow",
         "plating": "Dark Beige with large areas of burgundy",
         "equipment": "Holographic projector, datapad",
-        "affiliation": "Desix Separatist holdout"
+        "affiliation": [
+            "Desix Separatist holdout"
+        ]
     },
     "unidentified t-series tactical droid (horain)": {
         "name": "Unidentified T-series tactical droid (Horain)",
@@ -9906,7 +10369,9 @@
         "class": "Tactical droid",
         "height": "1.93 meters",
         "gender": "Feminine programming",
-        "affiliation": "Confederacy of Independent Systems"
+        "affiliation": [
+            "Confederacy of Independent Systems"
+        ]
     },
     "unidentified tactical droid": {
         "name": "Unidentified tactical droid",
@@ -9917,14 +10382,16 @@
             "Separatist droid officers",
             "Unidentified T-series tactical droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/8/85/Tactical_droid_talking.jpg/revision/latest?cb=20181014020045.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/8/85/Tactical_droid_talking.jpg",
         "manufacturer": "Baktoid Combat Automata",
         "model": "T-series military strategic analysis and tactics droid",
         "class": "Battle droid",
         "height": "1.93 meters",
         "gender": "Masculine Programming",
         "sensor": "White",
-        "affiliation": "Confederacy of Independent Systems"
+        "affiliation": [
+            "Confederacy of Independent Systems"
+        ]
     },
     "unidentified tactical droid (alamass)": {
         "name": "Unidentified tactical droid (Alamass)",
@@ -9939,7 +10406,9 @@
         "death": "22 BBY",
         "line": "T-series military strategic analysis and tactics droid",
         "model": "Tactical droid",
-        "affiliation": "Confederacy of Independent Systems"
+        "affiliation": [
+            "Confederacy of Independent Systems"
+        ]
     },
     "unidentified b1 battle droid 5 (rugosa)": {
         "name": "Unidentified B1 battle droid 5 (Rugosa)",
@@ -9951,7 +10420,7 @@
             "Separatist droids",
             "Unidentified B1 battle droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/2/2e/B1SeriesBattleDroid5-Ambush.jpg/revision/latest?cb=20120626173414.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/2/2e/B1SeriesBattleDroid5-Ambush.jpg",
         "death": "22 BBY, Rugosa",
         "line": "B-series battle droid",
         "model": "B1-series battle droid",
@@ -10021,7 +10490,7 @@
             "Separatist droids",
             "Unidentified B1 battle droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/f/f9/B1SeriesBattleDroid2-PlanOfDissent.jpg/revision/latest/scale-to-width-down/260?cb=20120120162757.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/f/f9/B1SeriesBattleDroid2-PlanOfDissent.jpg",
         "death": "20 BBY, aboard a DH-Omni Support Vessel, over Umbara",
         "line": "B-series battle droid",
         "model": "B1-series battle droid",
@@ -10053,7 +10522,9 @@
         "gender": "Masculine programming",
         "sensor": "Black",
         "plating": "Bone-white ",
-        "affiliation": "Plazir-15's government"
+        "affiliation": [
+            "Plazir-15's government"
+        ]
     },
     "unidentified bx-series droid commando (crystals)": {
         "name": "Unidentified BX-series droid commando (crystals)",
@@ -10094,7 +10565,9 @@
         "height": "1.91 meters",
         "gender": "Masculine programming",
         "sensor": "White",
-        "affiliation": "Confederacy of Independent Systems"
+        "affiliation": [
+            "Confederacy of Independent Systems"
+        ]
     },
     "unidentified bx-series droid commando (sundari)": {
         "name": "Unidentified BX-series droid commando (Sundari)",
@@ -10106,7 +10579,7 @@
             "Separatist droids",
             "Unidentified BX-series droid commandos"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/a/a4/SundariBXseriesDroidCommando-AFriendInNeed.jpg/revision/latest/scale-to-width-down/500?cb=20120611182450.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/a/a4/SundariBXseriesDroidCommando-AFriendInNeed.jpg",
         "death": "c. 20 BBY, Sundari",
         "manufacturer": "Baktoid Combat Automata",
         "model": "BX-series droid commando",
@@ -10115,7 +10588,9 @@
         "gender": "Masculine programming",
         "sensor": "White",
         "armament": "E-5 blaster rifle",
-        "affiliation": "Confederacy of Independent Systems"
+        "affiliation": [
+            "Confederacy of Independent Systems"
+        ]
     },
     "unidentified bx-series droid commando (the citadel)": {
         "name": "Unidentified BX-series droid commando (The Citadel)",
@@ -10136,7 +10611,9 @@
         "gender": "Masculine programming",
         "sensor": "White",
         "armament": "E-5 blaster rifle",
-        "affiliation": "Confederacy of Independent Systems"
+        "affiliation": [
+            "Confederacy of Independent Systems"
+        ]
     },
     "unidentified bx-series droid commando 2 (onderon)": {
         "name": "Unidentified BX-series droid commando 2 (Onderon)",
@@ -10157,7 +10634,9 @@
         "height": "1.91 meters",
         "gender": "Masculine programming",
         "sensor": "White",
-        "affiliation": "Confederacy of Independent Systems"
+        "affiliation": [
+            "Confederacy of Independent Systems"
+        ]
     },
     "unidentified bx-series droid commando 2 (the citadel)": {
         "name": "Unidentified BX-series droid commando 2 (The Citadel)",
@@ -10178,7 +10657,9 @@
         "sensor": "White",
         "armament": "E-5 blaster rifle",
         "equipment": "Droid commando personal shield",
-        "affiliation": "Confederacy of Independent Systems"
+        "affiliation": [
+            "Confederacy of Independent Systems"
+        ]
     },
     "unidentified ev-series medical droid": {
         "name": "Unidentified EV-series medical droid",
@@ -10200,7 +10681,9 @@
         "sensor": "Red",
         "plating": "Dark gray",
         "equipment": "Built-in needle",
-        "affiliation": "Confederacy of Independent Systems"
+        "affiliation": [
+            "Confederacy of Independent Systems"
+        ]
     },
     "unidentified oom pilot battle droid": {
         "name": "Unidentified OOM pilot battle droid",
@@ -10213,7 +10696,7 @@
             "Separatist droids",
             "Unidentified OOM battle droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/4/46/OOMPilotBattleDroid-DownfallOfADroid.jpg/revision/latest/scale-to-width-down/350?cb=20120627191812.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/4/46/OOMPilotBattleDroid-DownfallOfADroid.jpg",
         "model": "OOM pilot battle droid",
         "class": "Battle droid",
         "height": "1.93 meters",
@@ -10234,7 +10717,7 @@
             "Separatist droids",
             "Unidentified OOM battle droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/1/19/OOMPilotBattleDroidBothawui-DownfallOfADroid.jpg/revision/latest?cb=20120627192612.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/1/19/OOMPilotBattleDroidBothawui-DownfallOfADroid.jpg",
         "death": "22 BBY, Fervse'dra asteroid belt",
         "model": "OOM pilot battle droid",
         "class": "Battle droid",
@@ -10266,7 +10749,9 @@
         "height": "1.93 meters",
         "gender": "Masculine programming",
         "sensor": "Black",
-        "affiliation": "Confederacy of Independent Systems"
+        "affiliation": [
+            "Confederacy of Independent Systems"
+        ]
     },
     "unidentified oom-series security droid 2": {
         "name": "Unidentified OOM-series security droid 2",
@@ -10280,7 +10765,7 @@
             "Separatist droids",
             "Unidentified OOM battle droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/f/f9/OOMSecurityBattleDroid2-TheCitadel.jpg/revision/latest/scale-to-width-down/350?cb=20120529121311.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/f/f9/OOMSecurityBattleDroid2-TheCitadel.jpg",
         "manufacturer": "Baktoid Combat Automata / Baktoid Armor Workshop",
         "line": "OOM-series battle droid",
         "model": "OOM-series security droid",
@@ -10289,7 +10774,9 @@
         "gender": "Masculine programing",
         "sensor": "Black",
         "armament": "None",
-        "affiliation": "Confederacy of Independent Systems"
+        "affiliation": [
+            "Confederacy of Independent Systems"
+        ]
     },
     "unidentified oom-series security droid 3": {
         "name": "Unidentified OOM-series security droid 3",
@@ -10303,7 +10790,7 @@
             "Separatist droids",
             "Unidentified OOM battle droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/0/08/OOMSecurityBattleDroid3-TheCitadel.jpg/revision/latest/scale-to-width-down/350?cb=20120529122727.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/0/08/OOMSecurityBattleDroid3-TheCitadel.jpg",
         "manufacturer": "Baktoid Combat Automata / Baktoid Armor Workshop",
         "line": "OOM-series battle droid",
         "model": "OOM-series security droid",
@@ -10312,7 +10799,9 @@
         "gender": "Masculine programing",
         "sensor": "Black",
         "armament": "None",
-        "affiliation": "Confederacy of Independent Systems"
+        "affiliation": [
+            "Confederacy of Independent Systems"
+        ]
     },
     "unidentified oom-series security droid 4": {
         "name": "Unidentified OOM-series security droid 4",
@@ -10334,7 +10823,9 @@
         "gender": "Masculine programing",
         "sensor": "Black",
         "armament": "None",
-        "affiliation": "Confederacy of Independent Systems"
+        "affiliation": [
+            "Confederacy of Independent Systems"
+        ]
     },
     "unidentified oom-series security droid 5": {
         "name": "Unidentified OOM-series security droid 5",
@@ -10356,7 +10847,9 @@
         "gender": "Masculine programing",
         "sensor": "Black",
         "armament": "None",
-        "affiliation": "Confederacy of Independent Systems"
+        "affiliation": [
+            "Confederacy of Independent Systems"
+        ]
     },
     "unidentified rogue b2-series battle droid": {
         "name": "Unidentified rogue B2-series battle droid",
@@ -10376,7 +10869,9 @@
         "gender": "Masculine programming",
         "sensor": "Red",
         "plating": "Dull silver",
-        "affiliation": "Plazir-15's government"
+        "affiliation": [
+            "Plazir-15's government"
+        ]
     },
     "unit 07": {
         "name": "Unit 07",
@@ -10396,7 +10891,9 @@
         "gender": "Masculine programming",
         "sensor": "Red",
         "armament": "E-5 blaster rifle",
-        "affiliation": "Confederacy of Independent Systems"
+        "affiliation": [
+            "Confederacy of Independent Systems"
+        ]
     },
     "unit 26": {
         "name": "Unit 26",
@@ -10416,7 +10913,9 @@
         "height": "1.91 meters",
         "gender": "Masculine programming",
         "sensor": "Red",
-        "affiliation": "Confederacy of Independent Systems"
+        "affiliation": [
+            "Confederacy of Independent Systems"
+        ]
     },
     "unit 2953": {
         "name": "Unit 2953",
@@ -10426,7 +10925,7 @@
             "Separatist droids",
             "Confederacy military personnel"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/4/49/Unit2953.jpg/revision/latest/scale-to-width-down/350?cb=20100123141230.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/4/49/Unit2953.jpg",
         "model": "B1-Series battle droid",
         "class": "Battle droid",
         "height": "1.91 meters",
@@ -10446,7 +10945,7 @@
             "Unidentified droids",
             "Unidentified LEP-series service droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/9/93/Bunnydroid.jpg/revision/latest/scale-to-width-down/500?cb=20091227063352.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/9/93/Bunnydroid.jpg",
         "death": "22 BBY, Christophsis",
         "manufacturer": "Coachelle Automata",
         "model": "LEP-series service droid",
@@ -10469,7 +10968,9 @@
         "image": "https://static.wikia.nocookie.net/starwars/images/9/90/Mauls_droid.png",
         "class": "Probe droid",
         "plating": "Black",
-        "affiliation": "Order of the Sith Lords"
+        "affiliation": [
+            "Order of the Sith Lords"
+        ]
     },
     "ought-six": {
         "name": "Ought-Six",
@@ -10484,7 +10985,7 @@
             "Pirates",
             "Sith droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/1/13/OughtSix-DarthVader2020-9.jpg/revision/latest/scale-to-width-down/500?cb=20210128094320.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/1/13/OughtSix-DarthVader2020-9.jpg",
         "death": [
             "3 ABY, Mustafar (rebuilt)",
             "Between 3 ABY and 4 ABY, Ringo Vinda (rebuilt)",
@@ -10520,7 +11021,9 @@
         "class": "RO-series childcare and nanny droid",
         "gender": "Feminine programming",
         "sensor": "White",
-        "affiliation": "Sith"
+        "affiliation": [
+            "Sith"
+        ]
     },
     "unidentified sith nanny droid": {
         "name": "Unidentified Sith nanny droid",
@@ -10534,13 +11037,15 @@
             "Sith droids",
             "Unidentified droids"
         ],
-        "image": "https://static.wikia.nocookie.net/starwars/images/b/b1/SithNannyDroid.jpg/revision/latest/scale-to-width-down/350?cb=20120115145256.png",
+        "image": "https://static.wikia.nocookie.net/starwars/images/b/b1/SithNannyDroid.jpg",
         "death": "21 BBY, Mustafar",
         "model": "RO-series childcare and nanny droid",
         "class": "Nanny droid",
         "gender": "Feminine programming",
         "sensor": "White",
-        "affiliation": "Sith"
+        "affiliation": [
+            "Sith"
+        ]
     },
     "b4-c0": {
         "name": "B4-C0",
@@ -10554,6 +11059,8 @@
         "class": "Astromech droid",
         "sensor": "Black",
         "plating": "Black and red",
-        "affiliation": "Sith Empire"
+        "affiliation": [
+            "Sith Empire"
+        ]
     }
 }

@@ -34,7 +34,8 @@ def loadCategoryTree(rootCategory, visited, results=[]):
 
     categoryVisited = rootCategory in visited
     categoryInMap = rootCategory in categories.keys()
-    categoryReturned = rootCategory in results
+    categoryReturned = categories[rootCategory]["name"] in results
+
     if categoryVisited or not categoryInMap:
         return
 
@@ -48,4 +49,4 @@ def loadCategoryTree(rootCategory, visited, results=[]):
             if value["parent"].lower() == rootCategory.lower():
                 results.append(value["name"])
                 loadCategoryTree(key, visited, results)
-                return results
+    return results

@@ -129,21 +129,21 @@ class WikiEntry:
         page = requests.get(url)
         soup = BeautifulSoup(page.content, "html.parser")
 
-        entryCategories = self.get_entry_categories(soup)
-
         # Appends additional data to the results dict
         results = {}
         results['name'] = self.name
-        results['categories'] = entryCategories
+        results['categories'] = self.get_entry_categories(soup)
         results['image'] = self.get_image()
 
-        # Finds all the data-sources stored on the wiki (block content e.g. height, gender)
+        # Finds all the data-sources stored on the wiki e.g. height, gender
         dataSources = soup.find_all("div", class_="pi-item")
 
         # Appends all the dataSources to the results dictionary
         for dataSource in dataSources:
             sourceName = dataSource["data-source"]
             result = self.get_value_from_datasource(dataSource)
+            if sourceName == "affiliation" and type(result) is not list:
+                result = [result]
             results[sourceName] = result
 
         return results
@@ -157,6 +157,7 @@ class WikiEntry:
         if result is not None:
             link = result['src']
             link = link.split(".png")[0] + ".png"
+            link = link.split("/revision")[0]
             return link
 
         return None
